@@ -1,10 +1,20 @@
 package math_problems;
 
+//Iterative
+// Time Complexity is Theta(n)
+// Auxillary Space is Big(O(1))
+
+//Recursive
+// Time Complexity is Theta(n)
+// Auxillary Space is Theta(n+1)
+
+
+
 public class Factorial {
     public static void main(String[] args) {
 
         int number = GetNumber.getNumber();
-        //System.out.println(findFactorial(number));
+        System.out.println(findFactorial(number));
         System.out.println(recursiveMethod(number));
 
     }
@@ -18,7 +28,7 @@ public class Factorial {
     private static int findFactorial(int number) {
         int fact = 1;
 
-        if(number==0 || number==1)
+        if(number==0)
             return 1;
 
         for (int i = 2; i <=number ; i++) {
