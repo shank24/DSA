@@ -1,4 +1,4 @@
-package math_problems;
+package math_problems.problemsInSession;
 
 import java.util.Scanner;
 

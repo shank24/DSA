@@ -1,4 +1,4 @@
-package math_problems;
+package math_problems.problemsInSession;
 
 // Time Complexity - Theta(n)
 // Auxillary Space - Theta(1)

@@ -1,9 +1,9 @@
-package math_problems;
+package math_problems.problemsInSession;
 
 // Time Complexity - Big(O(n^2logn))
 // Time Complexity - Theta(Sqrt(n)) - in moreOptimizedWay
 
-import static math_problems.CheckPrime.*;
+import static math_problems.problemsInSession.CheckPrime.*;
 
 public class PrimeFactors {
 
