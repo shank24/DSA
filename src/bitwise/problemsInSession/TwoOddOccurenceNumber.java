@@ -4,7 +4,7 @@ import math_problems.problemsInSession.GetNumber;
 
 import java.util.Scanner;
 
-public class OddOccurenceNumber {
+public class TwoOddOccurenceNumber {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -17,16 +17,33 @@ public class OddOccurenceNumber {
         }
 
         //findOddOccuenceInArray(arr);
-        usingXOROperator(arr);
+        oddAppearing(arr);
 
     }
 
-    private static void usingXOROperator(int[] arr) {
-        int res=0;
-        for (int i = 0; i <arr.length ; i++) {
-            res=res^arr[i];
+    private static void oddAppearing(int arr[])
+    {
+        int xor = 0, res1 = 0, res2 = 0;
+
+        for (int i = 0; i < arr.length; i++)
+            xor = xor ^ arr[i];
+
+
+        int sn = xor & (~(xor - 1));
+
+
+
+        for (int i = 0; i < arr.length; i++)
+        {
+            if ((arr[i] & sn) != 0)
+                res1 = res1 ^ arr[i];
+            else
+                res2 = res2 ^ arr[i];
         }
-        System.out.println(res);
+
+
+        System.out.println( res1 + " " + res2);
+
     }
 
     private static void findOddOccuenceInArray(int[] arr) {

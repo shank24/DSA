@@ -25,6 +25,7 @@ public class FindMissingNumber {
             return 0;
 
         int res = arr[0],res1=1;
+
         for (int i = 1; i <n ; i++) {
             res=res^arr[i];
         }

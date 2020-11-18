@@ -2,7 +2,7 @@ package bitwise.problemsInSession;
 
 import math_problems.problemsInSession.GetNumber;
 
-public class KThBit {
+public class  KThBit {
 
     public static void main(String[] args) {
         int n = GetNumber.getNumber();
