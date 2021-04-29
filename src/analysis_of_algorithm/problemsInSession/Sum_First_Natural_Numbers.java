@@ -17,6 +17,7 @@ public class Sum_First_Natural_Numbers {
             return 0;
         }
         return n*(n+1)/2;
+        // Time Taken - C1 (Constant)
     }
 
     private static int fun2(int n) {
@@ -30,6 +31,7 @@ public class Sum_First_Natural_Numbers {
             sum = sum +i;
         }
         return sum;
+        // Time Taken - C2*n + C3
     }
 
     private static int fun3(int n) {
@@ -44,6 +46,7 @@ public class Sum_First_Natural_Numbers {
             }
         }
         return sum;
+        // Time Taken - C4*n2 + C5*n + C6
     }
 
 
