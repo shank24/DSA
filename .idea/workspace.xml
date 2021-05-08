@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/IsPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +16,12 @@
     <session id="33491364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -27,31 +30,32 @@
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="55" />
+          <entry key="java" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="55" />
+          <entry key="JAVA" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="9647" />
+          <entry key="java" value="9830" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9647" />
+          <entry key="JAVA" value="9830" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -60,28 +64,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bitwise/problemsInSession/CountSetBits.java">
+        <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1760">
-              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/IsPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="48" column="41" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="341">
+              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CountTotalSetBits.java">
+        <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/CheckPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="64">
+              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -89,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CheckKthbitSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="224">
               <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
                 <element signature="e#552#553#0" expanded="true" />
@@ -213,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/bitwise/problemsForPratice/CheckKthbitSet.java" />
         <option value="$PROJECT_DIR$/src/bitwise/problemsForPratice/CountTotalSetBits.java" />
         <option value="$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/IsPrime.java" />
       </list>
     </option>
   </component>
@@ -236,7 +241,7 @@
     <panes>
       <pane id="CatdeaLogs" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,24 +271,24 @@
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bitwise" type="462c0819:PsiDirectoryNode" />
+              <item name="math_problems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bitwise" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsForPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="math_problems" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619663381425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620481358308" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Azure/Practice/DevopsBasics" />
   </component>
@@ -305,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sum_First_Natural_Numbers">
+  <component name="RunManager" selected="Application.IsPrime">
     <configuration name="CheckKthbitSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bitwise.problemsForPratice.CheckKthbitSet" />
       <module name="DSA_Code" />
@@ -332,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KThBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitwise.problemsInSession.KThBit" />
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="analysis_of_algorithm.problemsInSession.IsPrime" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitwise.problemsInSession.*" />
+          <option name="PATTERN" value="analysis_of_algorithm.problemsInSession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightMostDifferentBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitwise.problemsForPratice.RightMostDifferentBit" />
+    <configuration name="KThBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwise.problemsInSession.KThBit" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitwise.problemsForPratice.*" />
+          <option name="PATTERN" value="bitwise.problemsInSession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RightMostDifferentBit" />
       <item itemvalue="Application.KThBit" />
       <item itemvalue="Application.CheckKthbitSet" />
       <item itemvalue="Application.CountTotalSetBits" />
       <item itemvalue="Application.Sum_First_Natural_Numbers" />
+      <item itemvalue="Application.IsPrime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPrime" />
         <item itemvalue="Application.Sum_First_Natural_Numbers" />
         <item itemvalue="Application.CountTotalSetBits" />
         <item itemvalue="Application.CheckKthbitSet" />
         <item itemvalue="Application.KThBit" />
-        <item itemvalue="Application.RightMostDifferentBit" />
       </list>
     </recent_temporary>
   </component>
@@ -403,8 +408,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23509713" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24514401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,12 +421,12 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48711342" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.48586118" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
@@ -683,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/CheckPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -794,6 +793,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsInSession/CountSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CountTotalSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CheckKthbitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/GetNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/RightMostDifferentBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -832,42 +863,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CountTotalSetBits.java">
+    <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/CheckPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsInSession/CountSetBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math_problems/problemsInSession/GetNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitwise/problemsForPratice/CheckKthbitSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="64">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="405">
+          <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/IsPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
