@@ -2,53 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Util/GetNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/analysis_of_algorithm/problemsInSession/IsPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CheckKthbitSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CheckKthbitSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CountTotalSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CountTotalSetBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/GetSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/GetSetBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/OnesComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/OnesComplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/ShiftCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/ShiftCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/KThBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/KThBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/OddOccurenceNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/OddOccurenceNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerOf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerOf2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/AbsoluteValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/CelciusToFahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/DigitsInFact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/DigitsInFact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/Exactly3Divisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Exactly3Divisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/FindGPTerm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/FindGPTerm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/IsPrimeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/IsPrimeCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/ModularMulInverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/ModularMulInverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/ModuloMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/ModuloMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/ModuloSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/ModuloSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/QuadRoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/QuadRoots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsForPractice/QuadraticRoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/QuadraticRoots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/AllDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/BinaryExponentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/BinaryExponentation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/CheckPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/FindDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/FindDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/FindPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/FindPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/GCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GCF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/GetNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/LCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/PowerOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PrimeFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/SeiveOfEratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/math_problems/problemsInSession/TrailingZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/TrailingZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/CheckKthbitSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/CountTotalSetBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/GetSetBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/OnesComplement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/RightMostDifferentBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsForPratice/ShiftCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/CountSetBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/CountSetBitsOptimizedWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/KThBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/OddOccurenceNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/PowerOf2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/PowerSetUsingBitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/bitwise/problemsInSession/TwoOddOccurenceNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/AbsoluteValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/CelciusToFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/DigitsInFact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/Exactly3Divisors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/FindGPTerm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/IsPrimeCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModularMulInverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModularMulInverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadRoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadRoots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadraticRoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadraticRoots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/AllDivisors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/BinaryExponentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/CheckPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/FindDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/FindPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/GCF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/GetNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/PowerOfN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/PrimeFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/SeiveOfEratosthenes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsInSession/TrailingZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,24 +82,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="135" />
+          <entry key="java" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="135" />
+          <entry key="JAVA" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="10528" />
+          <entry key="java" value="10558" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10528" />
+          <entry key="JAVA" value="10558" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -110,33 +107,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerOf2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/AbsoluteValue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -194,7 +164,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
@@ -202,6 +172,33 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Util/GetNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -230,7 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bitwise/problemsForPratice/RightMostDifferentBit.java" />
         <option value="$PROJECT_DIR$/src/bitwise/problemsForPratice/CheckKthbitSet.java" />
         <option value="$PROJECT_DIR$/src/bitwise/problemsForPratice/CountTotalSetBits.java" />
         <option value="$PROJECT_DIR$/src/analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java" />
@@ -240,7 +236,6 @@
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_2/Solution_1.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Easy/Array_Sum.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2.java" />
-        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" />
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/AbsoluteValue.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.java" />
@@ -281,6 +276,8 @@
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerOf2.java" />
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Util/GetNumber.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" />
       </list>
     </option>
   </component>
@@ -342,29 +339,6 @@
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsForPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -381,6 +355,13 @@
               <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
               <item name="Set_2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -389,12 +370,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631281487412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631282194526" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software Stuff/gatling-charts-highcharts-bundle-3.6.1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Hacker_Rank.Util" />
       <recent name="math_problems.problemsForPractice" />
       <recent name="bitwise.problemsInSession" />
     </key>
@@ -411,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindSumOFNaturalNumbers (1)">
+  <component name="RunManager" selected="Application.Solution_3">
     <configuration name="Array_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Easy.Array_Sum" />
       <module name="DSA_Code" />
@@ -451,19 +433,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1_30_Days_Code.Solution_1" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hacker_Rank.Set_1_30_Days_Code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_2" />
       <module name="DSA_Code" />
@@ -477,20 +446,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_3" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Solution_1" />
       <item itemvalue="Application.Solution_1 (1)" />
       <item itemvalue="Application.Array_Sum" />
       <item itemvalue="Application.Solution_2" />
       <item itemvalue="Application.FindSumOFNaturalNumbers (1)" />
+      <item itemvalue="Application.Solution_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_3" />
         <item itemvalue="Application.FindSumOFNaturalNumbers (1)" />
         <item itemvalue="Application.Solution_2" />
         <item itemvalue="Application.Array_Sum" />
         <item itemvalue="Application.Solution_1 (1)" />
-        <item itemvalue="Application.Solution_1" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +491,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26121902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -697,7 +678,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java" />
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -738,13 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -845,13 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1050,6 +1016,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1057,6 +1030,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Util/GetNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
