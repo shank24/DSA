@@ -1,7 +1,7 @@
 
-package bitwise.problemsInSession;
+package GFG.Bitwise.problemsInSession;
 
-import math_problems.problemsInSession.GetNumber;
+import GFG.Math_problems.problemsInSession.GetNumber;
 
 // Time Complexity - It takes time equal to Binary rep of n, 32 bits / 64 bits.
 

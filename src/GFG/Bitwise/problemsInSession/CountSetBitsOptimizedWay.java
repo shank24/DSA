@@ -1,6 +1,6 @@
-package bitwise.problemsInSession;
+package GFG.Bitwise.problemsInSession;
 
-import math_problems.problemsInSession.GetNumber;
+import GFG.Math_problems.problemsInSession.GetNumber;
 
 public class CountSetBitsOptimizedWay {
 

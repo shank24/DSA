@@ -1,6 +1,6 @@
-package bitwise.problemsForPratice;
+package GFG.Bitwise.problemsForPratice;
 
-import math_problems.problemsInSession.GetNumber;
+import GFG.Math_problems.problemsInSession.GetNumber;
 
 public class GetSetBits {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package bitwise.problemsInSession;
+package GFG.Bitwise.problemsInSession;
 
 //TC - Theta (2,pow(n) * n)
 
