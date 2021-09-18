@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,24 +42,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="9" />
-          <entry key="java" value="146" />
+          <entry key="java" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="9" />
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="11533" />
+          <entry key="java" value="11784" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11533" />
+          <entry key="JAVA" value="11784" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -130,11 +130,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="74">
               <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="initializer##0;class#Solution_10#0" />
+                <element signature="method#main#0;class#Solution_10#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +177,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>package Hacker_Rank\.Set_1\;\n\nimport Hacker_Rank\.Util\.GetNumber\;\n\npublic class Solution_3 \{\n\n    public static void main\(String\[\] args\) \{\n\n    int num \= GetNumber\.getNumber\(\)\;\n        System\.out\.println\(printWeird\(num\)\)\;\n    \}\n\n    private static int printWeird\(int n\) \{\n\n        if\(n\%2\!\=0\)\{\n            System\.out\.println\(\&quot;Weird\&quot;\)\;\n        \}\n        else if\(n\%2\=\=0 \&amp;\&amp; \(n\&gt;2 \&amp;\&amp; n\&lt;\=5\)\)\{\n            System\.out\.println\(\&quot;Not Weird\&quot;\)\;\n        \}\n        else if\(n\%2\=\=0 \&amp;\&amp; \(n\&gt;6 \&amp;\&amp; n\&lt;\=20\)\)\{\n            System\.out\.println\(\&quot;Weird\&quot;\)\;\n        \}\n        else if\(n\%2\=\=0 \&amp;\&amp; n\&gt;20\)\{\n            System\.out\.println\(\&quot;Not Weird\&quot;\)\;\n        \}\n    return n\;\n    \}\n\n\n\}\n</find>
+      <find>package Hacker_Rank\.Set_1\;\n\n\npublic class Solution_10 \{\n\n    static int B\;\n    static int H\;\n    static \{\n            B\=1\;\n            H\=\-3\;\n    \}\n\n    public static void main\(String\[\] args\) \{\n\n        boolean flag \= true\;\n\n        try \{\n            if\(B \&lt;\= 0 \|\| H \&lt;\= 0\) \{\n                flag \= false\;\n                throw new Exception\(\&quot;Breadth and height must be positive\&quot;\)\;\n            \}\n            else\{\n                System\.out\.println\(B\*H\)\;\n            \}\n        \}\n        catch \(Exception e\)\{\n            System\.out\.println\(e\.toString\(\)\)\;\n            System\.out\.println\(e\.getMessage\(\)\)\;\n        \}\n\n    \}\n\n\}\n</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -179,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_2/Solution_1.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Easy/Array_Sum.java" />
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/AbsoluteValue.java" />
@@ -230,6 +243,7 @@
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_8.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java" />
       </list>
     </option>
   </component>
@@ -322,7 +336,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631967496462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631968672044" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software Stuff/gatling-charts-highcharts-bundle-3.6.1" />
   </component>
@@ -346,9 +360,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_9">
-    <configuration name="Solution_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_5" />
+  <component name="RunManager" selected="Application.Solution_10">
+    <configuration name="Solution_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_10" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -413,19 +427,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution_5" />
       <item itemvalue="Application.Solution_6" />
       <item itemvalue="Application.Solution_7" />
       <item itemvalue="Application.Solution_8" />
       <item itemvalue="Application.Solution_9" />
+      <item itemvalue="Application.Solution_10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_10" />
         <item itemvalue="Application.Solution_9" />
         <item itemvalue="Application.Solution_8" />
         <item itemvalue="Application.Solution_7" />
         <item itemvalue="Application.Solution_6" />
-        <item itemvalue="Application.Solution_5" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +460,7 @@
     <frame x="61" y="-4" width="1539" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26925653" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26925653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +471,7 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,7 +491,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32953784" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26925653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26925653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,7 +502,7 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -638,13 +652,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/ModuloSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/QuadraticRoots.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -1002,6 +1009,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="initializer##0;class#Solution_10#0" />
+            <element signature="method#main#0;class#Solution_10#0" />
+          </folding>
         </state>
       </provider>
     </entry>
