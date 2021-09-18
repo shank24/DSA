@@ -17,6 +17,6 @@ public class Solution_2 {
         System.out.println(b);
         System.out.println(c);
 
-
+        sc.close();
     }
 }
