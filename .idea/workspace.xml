@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/OUTPUT_PATH" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,25 +45,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="10" />
-          <entry key="java" value="150" />
+          <entry key="java" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
-          <entry key="JAVA" value="150" />
+          <entry key="JAVA" value="151" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="12023" />
+          <entry key="java" value="12238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12023" />
+          <entry key="JAVA" value="12238" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -120,11 +121,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#994#995#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/DigitsInFact.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" />
@@ -227,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" />
       </list>
     </option>
   </component>
@@ -327,7 +342,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632331004489" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632332072742" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software Stuff/gatling-charts-highcharts-bundle-3.6.1" />
   </component>
@@ -351,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_12">
+  <component name="RunManager" selected="Application.Solution_13">
     <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution11" />
       <module name="DSA_Code" />
@@ -398,8 +413,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_9" />
+    <configuration name="Solution_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_13" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -412,19 +427,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution_9" />
       <item itemvalue="Application.Solution_10" />
       <item itemvalue="Application.Solution11" />
       <item itemvalue="Application.Solution_11" />
       <item itemvalue="Application.Solution_12" />
+      <item itemvalue="Application.Solution_13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_13" />
         <item itemvalue="Application.Solution_12" />
         <item itemvalue="Application.Solution_11" />
         <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.Solution_10" />
-        <item itemvalue="Application.Solution_9" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +460,7 @@
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26925653" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26925653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,7 +501,7 @@
       <window_info id="Project Explorer" order="7" />
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -637,13 +652,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/FindDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -984,6 +992,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
