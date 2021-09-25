@@ -12,8 +12,6 @@ public class Solution_13 {
         double payment = scanner.nextDouble();
         scanner.close();
 
-        // Write your code here.
-
         Locale inrLocale = new Locale("en","IN");
 
         NumberFormat us = getNumberFormat(Locale.US);

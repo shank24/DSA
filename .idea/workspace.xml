@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/OUTPUT_PATH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
     <session id="33491364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.2" value="3" />
@@ -35,35 +35,36 @@
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="10" />
-          <entry key="java" value="151" />
+          <entry key="java" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
-          <entry key="JAVA" value="151" />
+          <entry key="JAVA" value="152" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="12238" />
+          <entry key="java" value="12560" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12238" />
+          <entry key="JAVA" value="12560" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -71,15 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,8 +106,6 @@
             <state>
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1011#1280#0" expanded="true" />
-                <element signature="e#1279#1280#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,15 +120,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="192">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1054#1055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Calendar.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="1184">
               <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
             </state>
           </provider>
@@ -191,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/DigitsInFact.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java" />
@@ -242,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java" />
       </list>
     </option>
   </component>
@@ -264,9 +265,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="CatdeaLogs" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,21 +287,6 @@
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Analysis_of_algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Analysis_of_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsForPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -312,14 +295,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
               <item name="Set_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
-              <item name="Set_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution_12.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
@@ -339,10 +314,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632332072742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632560810747" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software Stuff/gatling-charts-highcharts-bundle-3.6.1" />
   </component>
@@ -366,23 +344,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_13">
+  <component name="RunManager" selected="Application.Solution_14">
     <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution11" />
       <module name="DSA_Code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_10" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -426,20 +391,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_14" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Solution_10" />
       <item itemvalue="Application.Solution11" />
       <item itemvalue="Application.Solution_11" />
       <item itemvalue="Application.Solution_12" />
       <item itemvalue="Application.Solution_13" />
+      <item itemvalue="Application.Solution_14" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_14" />
         <item itemvalue="Application.Solution_13" />
         <item itemvalue="Application.Solution_12" />
         <item itemvalue="Application.Solution_11" />
         <item itemvalue="Application.Solution11" />
-        <item itemvalue="Application.Solution_10" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +438,7 @@
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26925653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26925653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -921,6 +899,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/OUTPUT_PATH" />
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -945,25 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16992">
-          <caret line="576" column="19" selection-start-line="576" selection-start-column="19" selection-end-line="576" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" lean-forward="true" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1011#1280#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -972,21 +932,9 @@
         <state>
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1011#1280#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Calendar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/OUTPUT_PATH">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -995,14 +943,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Calendar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16992">
+          <caret line="576" column="19" selection-start-line="576" selection-start-column="19" selection-end-line="576" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="192">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
           </folding>
         </state>
       </provider>
