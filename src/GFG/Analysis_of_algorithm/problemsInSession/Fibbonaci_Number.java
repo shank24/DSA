@@ -9,15 +9,44 @@ public class Fibbonaci_Number {
 
         int result = recursiveWay(n);
         System.out.println(result);
-        iterativeWay(n);
+        System.out.println(iterativeWay(n));
+        System.out.println(iterativeWayOptimize(n));
+
+
+
     }
 
-    private static void iterativeWay(int n) {
+    private static int iterativeWayOptimize(int n) {
+        if(n==0 || n==1)
+            return n;
+        int a=0, b=1, c=0;
+        for (int i = 2; i <=n ; i++) {
+            c=a+b;
+            a=b;
+            b=c;
+        }
+        return c;
     }
+
+    private static int iterativeWay(int n) {
+        int f[] = new int[n+1];
+
+        f[0]=0;
+        f[1]=1;
+
+        for (int i = 2; i <=n; i++) {
+                f[i] = f[i-1]  + f[i-2];
+        }
+        return f[n];
+    }
+    //Space Comp - Theta(n)
 
     private static int recursiveWay(int n) {
         if(n==0 || n==1)
             return n;
         return recursiveWay(n-1)+recursiveWay(n-2);
     }
+    //Space Comp - Theta(n)
+
+
 }
