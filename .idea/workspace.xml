@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,25 +49,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="10" />
-          <entry key="java" value="159" />
+          <entry key="java" value="160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
-          <entry key="JAVA" value="159" />
+          <entry key="JAVA" value="160" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="12876" />
+          <entry key="java" value="13021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12876" />
+          <entry key="JAVA" value="13021" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -74,11 +75,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="326">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -107,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -134,8 +135,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="256">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -169,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Exactly3Divisors.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/FindGPTerm.java" />
@@ -220,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java" />
         <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindNumberInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java" />
       </list>
     </option>
   </component>
@@ -292,6 +302,13 @@
               <item name="GFG" type="462c0819:PsiDirectoryNode" />
               <item name="Bitwise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GFG" type="462c0819:PsiDirectoryNode" />
+              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -300,7 +317,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634538751150" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634795563468" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
   </component>
@@ -324,7 +341,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindSumOFNaturalNumbers">
+  <component name="RunManager" selected="Application.Fibbonaci_Number">
+    <configuration name="Fibbonaci_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Analysis_of_algorithm.problemsInSession.Fibbonaci_Number" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.Analysis_of_algorithm.problemsInSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindNumberInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Analysis_of_algorithm.problemsForPractice.FindNumberInAnArray" />
       <module name="DSA_Code" />
@@ -344,19 +374,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="GFG.Analysis_of_algorithm.problemsForPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_12" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,19 +408,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution_12" />
       <item itemvalue="Application.Solution_13" />
       <item itemvalue="Application.Solution_14" />
       <item itemvalue="Application.FindNumberInAnArray" />
       <item itemvalue="Application.FindSumOFNaturalNumbers" />
+      <item itemvalue="Application.Fibbonaci_Number" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibbonaci_Number" />
         <item itemvalue="Application.FindSumOFNaturalNumbers" />
         <item itemvalue="Application.FindNumberInAnArray" />
         <item itemvalue="Application.Solution_14" />
         <item itemvalue="Application.Solution_13" />
-        <item itemvalue="Application.Solution_12" />
       </list>
     </recent_temporary>
   </component>
@@ -422,9 +439,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="-4" width="1539" height="904" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28533155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28533155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,11 +452,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47943446" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47938144" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
@@ -612,17 +628,16 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/FindPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GCF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -909,13 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CheckKthbitSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -930,10 +938,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="326">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -947,10 +962,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="256">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
