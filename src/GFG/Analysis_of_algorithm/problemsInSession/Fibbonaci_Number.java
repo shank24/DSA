@@ -27,6 +27,10 @@ public class Fibbonaci_Number {
         }
         return c;
     }
+    //Space Comp - Theta(1) (Because of constant variable,
+    // not depending upon n.
+    //Time Comp - Theta(n) for all.
+
 
     private static int iterativeWay(int n) {
         int f[] = new int[n+1];
