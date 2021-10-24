@@ -14,8 +14,14 @@ public class FindDigits {
         System.out.println(calculateNoOfDigits(number));
         System.out.println(recursiveMethod(number));
         System.out.println(logarithimicMethod(number));
+        System.out.println(stringBasedSolution(number));
+
     }
 
+    private static int stringBasedSolution(int number) {
+        int length = String.valueOf(number).length();
+        return length;
+    }
 
 
     private static int logarithimicMethod(int number) {
