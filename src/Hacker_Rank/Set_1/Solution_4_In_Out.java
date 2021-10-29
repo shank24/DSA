@@ -2,7 +2,7 @@ package Hacker_Rank.Set_1;
 
 import java.util.Scanner;
 
-public class Solution_4 {
+public class Solution_4_In_Out {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

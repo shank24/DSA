@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Solution_13 {
+public class Solution_13_Currency_Formatter {
 
     public static void main(String[] args) {
 

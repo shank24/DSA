@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsPrimeBigInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/AllDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/AllDivisors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$ExitTrappedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$ExitTrappedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1_30_Days_Code/Solution_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1_Welcome_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10_Static_Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11_Int_To_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12_Data_Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13_Currency_Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14_Strings_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2_StdIn_Stdout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3_If_Else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_4_In_Out.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_5_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_6_Loops_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7_Loops_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_8_DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9_EOF.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,27 +84,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
-          <entry key="class" value="14" />
-          <entry key="java" value="180" />
+          <entry key="class" value="15" />
+          <entry key="java" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="14" />
-          <entry key="JAVA" value="180" />
+          <entry key="CLASS" value="15" />
+          <entry key="JAVA" value="189" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="14502" />
+          <entry key="dummy" value="178" />
+          <entry key="java" value="15162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14502" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="15162" />
+          <entry key="PLAIN_TEXT" value="178" />
         </counts>
       </usages-collector>
     </session>
@@ -77,10 +112,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java8_Code/Interview_Questions/Remove_Duplicate.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14_Strings_Intro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13_Currency_Formatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2_StdIn_Stdout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1_Welcome_Java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12_Data_Time.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,82 +181,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/TrailingZeros.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsPrimeBigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="405">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GCF.java">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigInteger.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/LCM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/CheckPrime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PrimeFactors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/IntStream.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3520">
-              <caret line="142" column="43" selection-start-line="142" selection-start-column="43" selection-end-line="142" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/IntPipeline.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9312">
-              <caret line="362" column="5" selection-start-line="362" selection-start-column="5" selection-end-line="362" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="2296" column="19" selection-start-line="2296" selection-start-column="19" selection-end-line="2296" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -198,9 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GCF.java" />
-        <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java" />
-        <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.java" />
         <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.java" />
         <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.java" />
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CheckKthbitSet.java" />
@@ -249,6 +275,9 @@
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/CheckPrime.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PrimeFactors.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java" />
+        <option value="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsPrimeBigInteger.java" />
+        <option value="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsProbablePrime.java" />
+        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java" />
       </list>
     </option>
   </component>
@@ -295,21 +324,33 @@
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_Problems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Math_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacker_Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="Set_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java8_Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview_Questions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,12 +361,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635505978606" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635515728978" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java8_Code.Interview_Questions" />
       <recent name="Hacker_Rank.Set_1" />
       <recent name="Hacker_Rank.Util" />
       <recent name="math_problems.problemsForPractice" />
@@ -344,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AllDivisors">
+  <component name="RunManager" selected="Application.Solution_25_Primality_Test">
     <configuration name="AllDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Math_problems.problemsInSession.AllDivisors" />
       <module name="DSA_Code" />
@@ -358,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Math_problems.problemsInSession.CheckPrime" />
+    <configuration name="IsPrimeBigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_Code.Interview_Questions.IsPrimeBigInteger" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Math_problems.problemsInSession.*" />
+          <option name="PATTERN" value="Java8_Code.Interview_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Math_problems.problemsInSession.GCF" />
+    <configuration name="Solution_12_Data_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_12_Data_Time" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Math_problems.problemsInSession.*" />
+          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Math_problems.problemsInSession.PrimeFactors" />
+    <configuration name="Solution_1_Welcome_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1_30_Days_Code.Solution_1_Welcome_Java" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Math_problems.problemsInSession.*" />
+          <option name="PATTERN" value="Hacker_Rank.Set_1_30_Days_Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Math_problems.problemsInSession.TrailingZeros" />
+    <configuration name="Solution_25_Primality_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hacker_Rank.Set_1.Solution_25_Primality_Test" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Math_problems.problemsInSession.*" />
+          <option name="PATTERN" value="Hacker_Rank.Set_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,19 +453,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TrailingZeros" />
-      <item itemvalue="Application.GCF" />
-      <item itemvalue="Application.CheckPrime" />
-      <item itemvalue="Application.PrimeFactors" />
       <item itemvalue="Application.AllDivisors" />
+      <item itemvalue="Application.Solution_1_Welcome_Java" />
+      <item itemvalue="Application.Solution_12_Data_Time" />
+      <item itemvalue="Application.Solution_25_Primality_Test" />
+      <item itemvalue="Application.IsPrimeBigInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_25_Primality_Test" />
+        <item itemvalue="Application.IsPrimeBigInteger" />
+        <item itemvalue="Application.Solution_12_Data_Time" />
+        <item itemvalue="Application.Solution_1_Welcome_Java" />
         <item itemvalue="Application.AllDivisors" />
-        <item itemvalue="Application.PrimeFactors" />
-        <item itemvalue="Application.CheckPrime" />
-        <item itemvalue="Application.GCF" />
-        <item itemvalue="Application.TrailingZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +638,7 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java</url>
+          <url>file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9_EOF.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="34" />
@@ -631,119 +673,50 @@
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/FindGPTerm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Util/GetNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/regex/Pattern.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_3_If_Else.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_4.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_4_In_Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_6.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_6_Loops_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/OUTPUT_PATH" />
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_7_Loops_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_8.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_8_DataTypes.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_9_EOF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10_Static_Block.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java">
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11_Int_To_String.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Calendar.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -756,13 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16992">
           <caret line="576" column="19" selection-start-line="576" selection-start-column="19" selection-end-line="576" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -960,8 +926,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_14_Strings_Intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13_Currency_Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_2_StdIn_Stdout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1_Welcome_Java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12_Data_Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigInteger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2296" column="19" selection-start-line="2296" selection-start-column="19" selection-end-line="2296" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsPrimeBigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsProbablePrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

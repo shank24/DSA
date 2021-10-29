@@ -3,7 +3,7 @@ package Hacker_Rank.Set_1;
 import java.io.*;
 import java.time.LocalDate;
 
-public class Solution_12 {
+public class Solution_12_Data_Time {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

@@ -4,7 +4,7 @@ import java.util.*;
 import java.security.*;
 
 
-public class Solution_11
+public class Solution_11_Int_To_String
 {
     public static void main(String[] args) {
 

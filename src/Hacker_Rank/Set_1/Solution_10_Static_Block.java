@@ -1,7 +1,7 @@
 package Hacker_Rank.Set_1;
 
 
-public class Solution_10 {
+public class Solution_10_Static_Block {
 
     static int B;
     static int H;
