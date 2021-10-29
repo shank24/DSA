@@ -65,6 +65,7 @@ public class PrimeFactors {
             System.out.println(number1);
     }
 
+    //optimizedWay is Checking Prime Condition
     private static void findPrimeFactors(int number1) {
 
         for (int i = 2; i <number1 ; i++) { // Big(O(n))
