@@ -9,8 +9,8 @@ public class CheckPrime {
 
         int number1 = GetNumber.getNumber();
         //findPrime(number1);
-        //System.out.println(optimizedWay(number1));
-        System.out.println(naiveSolution(number1));
+        System.out.println(optimizedWay(number1));
+        //System.out.println(naiveSolution(number1));
     }
 
     private static boolean naiveSolution(int number1) {
@@ -19,7 +19,7 @@ public class CheckPrime {
         if(number1 == 1)
             return false;
         else{
-            for (int i = 2; i < number1; i++) {
+            for (int i = 2; i <= Math.sqrt(number1); i++) {
                 if(number1%i==0)
                     res=false;
             }

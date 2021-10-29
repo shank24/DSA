@@ -14,11 +14,11 @@ public class PrimeFactors {
         int number1 = GetNumber.getNumber();
 
         //findPrimeFactors(number1);
-        //efficientSolution(number1);
-        moreOptiizedWay(number1);
+        efficientSolution(number1);
+        //moreOptimizedWay(number1);
     }
 
-    private static void moreOptiizedWay(int n) {
+    private static void moreOptimizedWay(int n) {
 
         if(n<=1)
             return;
