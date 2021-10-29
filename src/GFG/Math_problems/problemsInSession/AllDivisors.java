@@ -9,8 +9,8 @@ public class AllDivisors {
         int n = GetNumber.getNumber();
         
         //findAllDivisors(n);
-        //optimizedWay(n);
-        optimizedWayInSortedOrder(n);
+        optimizedWay(n);
+        //optimizedWayInSortedOrder(n);
 
 
     }
@@ -23,6 +23,7 @@ public class AllDivisors {
                 System.out.println(i);
         }
 
+        //The value of i is continous here
         for (; i>=1; i-- ){
             if(n%i==0)
                 System.out.println(n/i);
