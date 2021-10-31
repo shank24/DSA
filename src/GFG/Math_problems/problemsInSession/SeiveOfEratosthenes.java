@@ -13,8 +13,8 @@ public class SeiveOfEratosthenes {
         int n = GetNumber.getNumber();
 
         //findSOF(n);
-        //optimizedApproach(n);
-        moreOptimizedWay(n);
+        optimizedApproach(n);
+        //moreOptimizedWay(n);
     }
 
     private static void moreOptimizedWay(int n) {
@@ -33,6 +33,7 @@ public class SeiveOfEratosthenes {
 
     }
 
+    //Seive Way
     private static void optimizedApproach(int n) {
 
         boolean prime[] = new boolean[n+1];
