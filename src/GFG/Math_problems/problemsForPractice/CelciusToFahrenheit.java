@@ -16,6 +16,7 @@ public class CelciusToFahrenheit {
     }
 
     private static int cToF(int num) {
+
         return (int) (num*(1.8)+32);
     }
 
