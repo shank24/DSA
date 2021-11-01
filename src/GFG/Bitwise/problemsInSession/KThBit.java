@@ -10,7 +10,7 @@ public class  KThBit {
 
         findKthBitIsSet(n,k);
         findKthBitIsSet1(n,k);
-
+        System.out.println(findKthBitUsingand(n,k));
     }
 
     //Using Left Shift
@@ -27,5 +27,12 @@ public class  KThBit {
             System.out.println("SET");
         else
             System.out.println("Not SET");
+    }
+
+    private static boolean findKthBitUsingand(int n, int k){
+        if((n & k)==1)
+            return true;
+        else
+            return false;
     }
 }
