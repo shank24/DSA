@@ -15,15 +15,16 @@ public class CountSetBits {
         int n = GetNumber.getNumber();
 
         // Naive Solution
-        System.out.println(countSetBits(n));
+        //System.out.println(countSetBits(n));
         //System.out.println(usingShiftOperator(n));
 
         //Brian Kernigam's Algo
         // Turning off the Last Set Bit
-        //System.out.println(brianKAlgo(n));
+        System.out.println(brianK1Algo(n));
 
     }
 
+    // Brain Kerningam's Algo
     private static int brianK1Algo(int n) {
         if(n==1)
             return 1;
