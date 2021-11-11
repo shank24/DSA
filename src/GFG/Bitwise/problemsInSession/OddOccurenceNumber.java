@@ -29,6 +29,7 @@ public class OddOccurenceNumber {
         System.out.println(res);
     }
 
+    //Naive Solution
     private static void findOddOccuenceInArray(int[] arr) {
 
         if(arr.length<=0)
