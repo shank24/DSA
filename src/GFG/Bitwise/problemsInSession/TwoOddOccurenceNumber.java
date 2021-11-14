@@ -28,10 +28,19 @@ public class TwoOddOccurenceNumber {
         for (int i = 0; i < arr.length; i++)
             xor = xor ^ arr[i];
 
-
+        //This exp is to find the rightmost set bit.
         int sn = xor & (~(xor - 1));
 
 
+        //Here we are doing xor of both the odd appearing number
+        //Dividing it into 2 parts.
+        //Group 1 - (With last bit set)
+        //Group 2 - (Not last bit set)
+        //Group 1 - (3,3,5,7,7)
+        //Group 2 - (4,4,4,4,6)
+        //Now do xor of both the group and
+        //the one which is left out in each group
+        //is our answer.
 
         for (int i = 0; i < arr.length; i++)
         {
@@ -46,6 +55,10 @@ public class TwoOddOccurenceNumber {
 
     }
 
+
+    //Time Complexity of This Solution is Big(O(n-square)).
+
+    //Naive Solution
     private static void findOddOccuenceInArray(int[] arr) {
 
         if(arr.length<=0)
