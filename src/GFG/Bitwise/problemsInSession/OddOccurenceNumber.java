@@ -16,8 +16,8 @@ public class OddOccurenceNumber {
             arr[i] = scanner.nextInt();
         }
 
-        //findOddOccuenceInArray(arr);
-        usingXOROperator(arr);
+        findOddOccuenceInArray(arr);
+        //usingXOROperator(arr);
 
     }
 
@@ -28,6 +28,8 @@ public class OddOccurenceNumber {
         }
         System.out.println(res);
     }
+
+    //Time Complexity of This Solution is Big(O(n-square)).
 
     //Naive Solution
     private static void findOddOccuenceInArray(int[] arr) {
