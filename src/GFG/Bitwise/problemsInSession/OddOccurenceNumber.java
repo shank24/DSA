@@ -16,8 +16,8 @@ public class OddOccurenceNumber {
             arr[i] = scanner.nextInt();
         }
 
-        findOddOccuenceInArray(arr);
-        //usingXOROperator(arr);
+        //findOddOccuenceInArray(arr);
+        usingXOROperator(arr);
 
     }
 

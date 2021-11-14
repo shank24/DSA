@@ -26,14 +26,21 @@ public class FindMissingNumber {
 
         int res = arr[0],res1=1;
 
+        //First loop is calculating all the numbers from
+        // (arr[0]....(n-1))
         for (int i = 1; i <n ; i++) {
             res=res^arr[i];
         }
+
+        //Second loop is calculating all the numbers from
+        // (2....(n+1))
+        // Here res1 = 1, so 1 is excluded
 
         for (int i = 2; i <=n+1 ; i++) {
             res1=res1^i;
         }
 
+        //So XOR of both loop will give the missing number.
         return (res1^res);
     }
 
