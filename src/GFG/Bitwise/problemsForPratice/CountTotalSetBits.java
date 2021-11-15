@@ -7,8 +7,8 @@ public class CountTotalSetBits {
 
         int n = GetNumber.getNumber();
 
-        System.out.println(countSetBits(n));
-        System.out.println(otherWay(n));
+        //System.out.println(countSetBits(n));
+        //System.out.println(otherWay(n));
 
         //In O(logn) T.C
         System.out.println(simpleWayOut(n));
@@ -47,8 +47,6 @@ public class CountTotalSetBits {
 
     private static int countSetBits(int n) {
         int total = 0;
-        int m = n;
-
         while (n!=0){
             total +=  returncount(n);
             n=n-1;
