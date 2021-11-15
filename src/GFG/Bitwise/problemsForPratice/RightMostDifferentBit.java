@@ -8,13 +8,12 @@ public class RightMostDifferentBit {
         int m = GetNumber.getNumber();
         int n = GetNumber.getNumber();
 
-        //System.out.println(posOfRightMostDiffBit(m,n));
-        //System.out.println(otherSolu(m,n));
-        System.out.println(posOfRightMostDiffBitSimpleWay(m,n));
-
+        System.out.println(posOfRightMostDiffBit(m,n));
+        System.out.println(otherSolution(m,n));
+        System.out.println(posOfRightMostDiffBitAndOperator(m,n));
     }
 
-    private static int otherSolu(int m, int n) {
+    private static int otherSolution(int m, int n) {
 
         if(m==n)
             return -1;
@@ -47,7 +46,7 @@ public class RightMostDifferentBit {
     }
 
 
-    private static int posOfRightMostDiffBitSimpleWay(int m, int n) {
+    private static int posOfRightMostDiffBitAndOperator(int m, int n) {
 
         int count=1;
         if(m==n)
@@ -64,6 +63,5 @@ public class RightMostDifferentBit {
         }
         return count;
     }
-
 
 }

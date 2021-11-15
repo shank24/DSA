@@ -66,12 +66,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="179" />
-          <entry key="java" value="16774" />
+          <entry key="java" value="16821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16774" />
+          <entry key="JAVA" value="16821" />
           <entry key="PLAIN_TEXT" value="179" />
         </counts>
       </usages-collector>
@@ -130,8 +130,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1267">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="202">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -324,7 +324,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636975341067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636976390986" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
   </component>
@@ -447,6 +447,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32886806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -460,7 +461,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39948454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -683,12 +684,6 @@
           <line>11</line>
           <properties />
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
@@ -1044,8 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1267">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="202">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
