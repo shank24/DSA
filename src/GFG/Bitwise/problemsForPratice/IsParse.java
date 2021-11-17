@@ -7,8 +7,6 @@ public class IsParse {
 
 
         int a = GetNumber.getNumber();
-
-
         System.out.println(isSparse(a));
     }
 
