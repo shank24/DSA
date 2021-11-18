@@ -20,7 +20,6 @@ public class Swap_Odd_Even_Bits {
         //extract even bit only (1010 1010)
         int even_Mask =  0xAAAAAAAA;
 
-
         int odds = (n & odd_Mask);
 
         int even = (n & even_Mask);
