@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,25 +60,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="235" />
+          <entry key="java" value="237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="235" />
+          <entry key="JAVA" value="237" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="180" />
-          <entry key="java" value="19352" />
+          <entry key="java" value="19523" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19352" />
+          <entry key="JAVA" value="19523" />
           <entry key="PLAIN_TEXT" value="180" />
         </counts>
       </usages-collector>
@@ -86,28 +87,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/IsPowerOf2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="38" selection-start-line="8" selection-end-line="8" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Swap_Odd_Even_Bits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Max_And_Value.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="320">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,15 +98,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Intro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="374">
               <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -214,8 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_10.java" />
-        <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_11.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_13.java" />
@@ -265,6 +264,8 @@
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Swap_Odd_Even_Bits.java" />
         <option value="$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Max_And_Value.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Intro.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Test.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.java" />
       </list>
     </option>
   </component>
@@ -313,6 +314,14 @@
               <item name="GFG" type="462c0819:PsiDirectoryNode" />
               <item name="Recursion" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GFG" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +331,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637390807778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637392820473" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -348,20 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursion_Intro">
-    <configuration name="IsPowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Bitwise.problemsForPratice.IsPowerOf2" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GFG.Bitwise.problemsForPratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrintNumberUsingRecursion">
     <configuration name="Max_And_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Bitwise.problemsForPratice.Max_And_Value" />
       <module name="DSA_Code" />
@@ -388,6 +384,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintNumberUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.PrintNumberUsingRecursion" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Recursion_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Recursion_Intro" />
       <module name="DSA_Code" />
@@ -401,12 +410,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap_Odd_Even_Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Bitwise.problemsForPratice.Swap_Odd_Even_Bits" />
+    <configuration name="Recursion_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Recursion_Test" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Bitwise.problemsForPratice.*" />
+          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,19 +424,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IsPowerOf2" />
-      <item itemvalue="Application.Swap_Odd_Even_Bits" />
       <item itemvalue="Application.PowerSetUsingBitwise" />
       <item itemvalue="Application.Max_And_Value" />
       <item itemvalue="Application.Recursion_Intro" />
+      <item itemvalue="Application.Recursion_Test" />
+      <item itemvalue="Application.PrintNumberUsingRecursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintNumberUsingRecursion" />
+        <item itemvalue="Application.Recursion_Test" />
         <item itemvalue="Application.Recursion_Intro" />
         <item itemvalue="Application.Max_And_Value" />
         <item itemvalue="Application.PowerSetUsingBitwise" />
-        <item itemvalue="Application.Swap_Odd_Even_Bits" />
-        <item itemvalue="Application.IsPowerOf2" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +473,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47172236" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4716495" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
@@ -702,20 +711,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/LCM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PrimeFactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/AllDivisors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1045,24 +1040,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Max_And_Value.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="320">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Intro.java">
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Recursion_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
