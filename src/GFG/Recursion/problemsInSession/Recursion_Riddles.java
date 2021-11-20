@@ -8,7 +8,8 @@ public class Recursion_Riddles {
 
         int n = GetNumber.getNumber();
         //fun(n);
-        fun1(n);
+        //fun1(n);
+        System.out.println(fun2(n));
     }
 
     static void fun(int n){
@@ -27,6 +28,14 @@ public class Recursion_Riddles {
         fun1(n-1);
         System.out.println(n);
         fun1(n-1);
+    }
+
+
+    static int fun2(int n){
+        if(n==1)
+            return 0;
+        else
+            return 1 + fun2(n/2);
     }
 
 
