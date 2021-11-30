@@ -10,7 +10,8 @@ public class Recursion_Riddles {
         //fun(n);
         //fun1(n);
         //System.out.println(fun2(n));
-        System.out.println(fun3(n));
+        //System.out.println(fun3(n));
+        fun4(n);
     }
 
     static void fun(int n){
@@ -48,6 +49,14 @@ public class Recursion_Riddles {
             return 1 + fun3(n/3);
     }
 
+    //Binary Equivalent
+    static void fun4(int n){
+        if(n==0)
+            return;
+
+        fun4(n/2);
+        System.out.println(n%2);
+    }
 
 
 
