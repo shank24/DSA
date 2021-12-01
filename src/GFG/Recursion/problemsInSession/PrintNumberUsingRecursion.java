@@ -8,9 +8,10 @@ public class PrintNumberUsingRecursion {
 
         int n = GetNumber.getNumber();
 
-        //oneToN(n);
+
+        oneToN(n);
         //nToOne(n);
-        oneToNTailRecursive(n,1);
+        //oneToNTailRecursive(n,1);
     }
 
     // Non Tail Recursive Function
@@ -23,6 +24,8 @@ public class PrintNumberUsingRecursion {
         oneToN(n-1);
         System.out.println(n);
     }
+
+
 
     static void oneToNTailRecursive(int n, int k){
 
