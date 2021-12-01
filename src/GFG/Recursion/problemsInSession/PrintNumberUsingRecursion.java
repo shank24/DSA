@@ -8,7 +8,7 @@ public class PrintNumberUsingRecursion {
 
         int n = GetNumber.getNumber();
 
-        //oneToN(n);
+        oneToN(n);
         nToOne(n);
     }
 
@@ -16,8 +16,8 @@ public class PrintNumberUsingRecursion {
         if (n==0)
             return;
 
-        System.out.println(n%1);
-        oneToN(n/n);
+        oneToN(n-1);
+        System.out.println(n);
     }
 
     static void nToOne(int n){
