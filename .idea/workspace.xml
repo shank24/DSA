@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/CountDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/CountDigits.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,25 +63,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="242" />
+          <entry key="java" value="243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="242" />
+          <entry key="JAVA" value="243" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="180" />
-          <entry key="java" value="20615" />
+          <entry key="java" value="20647" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20615" />
+          <entry key="JAVA" value="20647" />
           <entry key="PLAIN_TEXT" value="180" />
         </counts>
       </usages-collector>
@@ -86,15 +89,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Print1ToN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/SumOfDigits.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,8 +101,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="32">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+              <folding>
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -208,7 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.java" />
         <option value="$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/AP_Series.java" />
         <option value="$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/Armstrong_Number.java" />
         <option value="$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/IsDigPalindrome.java" />
@@ -258,6 +264,7 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Print1ToN.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/SumOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java" />
       </list>
     </option>
@@ -315,6 +322,14 @@
               <item name="Recursion" type="462c0819:PsiDirectoryNode" />
               <item name="problemsForPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GFG" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -324,7 +339,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638595090849" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638611699515" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -691,13 +706,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_1_Welcome_Java.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_12_Data_Time.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -1047,10 +1055,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="32">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

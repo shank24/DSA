@@ -2,15 +2,21 @@ package GFG.Recursion.problemsForPractice;
 
 import GFG.Math_problems.problemsInSession.GetNumber;
 
+
 public class CountDigits {
     public static void main(String[] args) {
 
         int n = GetNumber.getNumber();
-        System.out.println(countDigits(n));
-        System.out.println(countDigitsRec(n));
-        System.out.println(countDigitsLog(n));
-        System.out.println(countDigitsString(n));
+        printValue(countDigitsString(n));
+        printValue(countDigits(n));
+        printValue(countDigitsRec(n));
+        printValue(countDigitsLog(n));
     }
+
+    private static void printValue(int n) {
+        System.out.println(n);
+    }
+
 
     //Iterative Way
     public static int countDigits(int n)
