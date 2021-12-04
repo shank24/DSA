@@ -7,6 +7,7 @@ public class CountDigits {
 
         int n = GetNumber.getNumber();
         System.out.println(countDigits(n));
+        System.out.println(countDigitsRec(n));
     }
 
     //Iterative Way
@@ -18,12 +19,21 @@ public class CountDigits {
         int count=0,val;
 
         while(n!=0){
-            val = n%10;
-            count++;
             n=n/10;
+            count++;
+
         }
         return count;
     }
 
     //Recursive Way
+
+    public static int countDigitsRec(int n)
+    {
+        if(n/10 == 0)
+            return 1;
+
+        return (1+countDigitsRec(n/10));
+    }
+
 }
