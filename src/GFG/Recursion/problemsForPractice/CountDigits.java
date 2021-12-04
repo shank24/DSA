@@ -9,6 +9,7 @@ public class CountDigits {
         System.out.println(countDigits(n));
         System.out.println(countDigitsRec(n));
         System.out.println(countDigitsLog(n));
+        System.out.println(countDigitsString(n));
     }
 
     //Iterative Way
@@ -36,8 +37,15 @@ public class CountDigits {
         return (1+countDigitsRec(n/10));
     }
 
+    //Logarithmic Way
     public static int countDigitsLog(int n){
 
         return (int)Math.floor(Math.log10(n)+1);
+    }
+
+    //String Based
+    public static int countDigitsString(int n){
+        String str = Integer.toString(n);
+        return str.length();
     }
 }
