@@ -8,6 +8,7 @@ public class CountDigits {
         int n = GetNumber.getNumber();
         System.out.println(countDigits(n));
         System.out.println(countDigitsRec(n));
+        System.out.println(countDigitsLog(n));
     }
 
     //Iterative Way
@@ -32,8 +33,11 @@ public class CountDigits {
     {
         if(n/10 == 0)
             return 1;
-
         return (1+countDigitsRec(n/10));
     }
 
+    public static int countDigitsLog(int n){
+
+        return (int)Math.floor(Math.log10(n)+1);
+    }
 }
