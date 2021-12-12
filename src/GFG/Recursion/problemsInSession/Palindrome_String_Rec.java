@@ -11,6 +11,18 @@ public class Palindrome_String_Rec {
         String s = scanner.next();
 
         System.out.println(checkPalindromeString(s));
+        System.out.println(checkRec(s,0,s.length()-1));
+
+    }
+
+    private static boolean checkRec(String s, int start, int end) {
+
+        if(start>=end)
+            return true;
+
+        return (s.charAt(start)==s.charAt(end)
+                &&
+                checkRec(s,start+1,end-1));
     }
 
     private static boolean checkPalindromeString(String s) {
