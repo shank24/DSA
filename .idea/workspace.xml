@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,25 +63,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="16" />
-          <entry key="java" value="255" />
+          <entry key="java" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="255" />
+          <entry key="JAVA" value="256" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="180" />
-          <entry key="java" value="21472" />
+          <entry key="java" value="21562" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21472" />
+          <entry key="JAVA" value="21562" />
           <entry key="PLAIN_TEXT" value="180" />
         </counts>
       </usages-collector>
@@ -89,15 +89,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerOf2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/IsPowerOf2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/KThBit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="128">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -140,17 +131,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="160">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="326">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -168,7 +168,7 @@
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -176,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="96">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -211,7 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/IsDigPalindrome.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/FindDigits.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/Factorial.java" />
         <option value="$PROJECT_DIR$/src/GFG/Java8_Code/IntStream_Practice/IntStream_Sum.java" />
@@ -262,6 +261,7 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFNNaturalNumbers.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.java" />
       </list>
     </option>
   </component>
@@ -335,7 +335,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639294508826" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639295107396" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -361,20 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome_String_Rec">
-    <configuration name="CountDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.CountDigits" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsForPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Reverse_Number_Recursion">
     <configuration name="Fibbo_Rec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Fibbo_Rec" />
       <module name="DSA_Code" />
@@ -427,20 +414,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse_Number_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Reverse_Number_Recursion" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CountDigits" />
       <item itemvalue="Application.Fibbo_Rec" />
       <item itemvalue="Application.GetSumOFNNaturalNumbers" />
       <item itemvalue="Application.PowerSetUsingBitwise" />
       <item itemvalue="Application.Palindrome_String_Rec" />
+      <item itemvalue="Application.Reverse_Number_Recursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Number_Recursion" />
         <item itemvalue="Application.Palindrome_String_Rec" />
         <item itemvalue="Application.PowerSetUsingBitwise" />
         <item itemvalue="Application.GetSumOFNNaturalNumbers" />
         <item itemvalue="Application.Fibbo_Rec" />
-        <item itemvalue="Application.CountDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -459,6 +459,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25787005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -701,13 +702,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/math/BigInteger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72480">
-          <caret line="2296" column="19" selection-start-line="2296" selection-start-column="19" selection-end-line="2296" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
@@ -1009,13 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/KThBit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/OddOccurenceNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="992">
@@ -1033,31 +1020,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java">
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="1088">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="96">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/KThBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
