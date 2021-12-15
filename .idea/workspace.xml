@@ -13,7 +13,7 @@
     <session id="33491364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="62" />
+          <entry key="project.closed" value="63" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
@@ -332,7 +332,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639295977128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639316995767" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
