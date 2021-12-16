@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,26 +63,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
-          <entry key="class" value="16" />
-          <entry key="java" value="262" />
+          <entry key="class" value="17" />
+          <entry key="java" value="263" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="262" />
+          <entry key="CLASS" value="17" />
+          <entry key="JAVA" value="263" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="192" />
-          <entry key="java" value="22223" />
+          <entry key="java" value="22420" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22223" />
+          <entry key="JAVA" value="22420" />
           <entry key="PLAIN_TEXT" value="192" />
         </counts>
       </usages-collector>
@@ -89,24 +90,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/IsDigPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1152">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFNNaturalNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,11 +121,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="120">
               <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="287" column="25" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="25" />
+              <folding>
+                <element signature="e#7754#7755#0" expanded="true" />
+                <element signature="e#7803#7804#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,6 +203,7 @@
       <find>package Hacker_Rank\.Set_1\;\n\n\npublic class Solution_10 \{\n\n    static int B\;\n    static int H\;\n    static \{\n            B\=1\;\n            H\=\-3\;\n    \}\n\n    public static void main\(String\[\] args\) \{\n\n        boolean flag \= true\;\n\n        try \{\n            if\(B \&lt;\= 0 \|\| H \&lt;\= 0\) \{\n                flag \= false\;\n                throw new Exception\(\&quot;Breadth and height must be positive\&quot;\)\;\n            \}\n            else\{\n                System\.out\.println\(B\*H\)\;\n            \}\n        \}\n        catch \(Exception e\)\{\n            System\.out\.println\(e\.toString\(\)\)\;\n            System\.out\.println\(e\.getMessage\(\)\)\;\n        \}\n\n    \}\n\n\}\n</find>
       <find>package Hacker_Rank\.Set_1\;\n\nimport java\.io\.\*\;\n\npublic class Solution_12 \{\n\n        public static void main\(String\[\] args\) throws IOException \{\n            BufferedReader bufferedReader \= new BufferedReader\(new InputStreamReader\(System\.in\)\)\;\n            BufferedWriter bufferedWriter \= new BufferedWriter\(new FileWriter\(System\.getenv\(\&quot;OUTPUT_PATH\&quot;\)\)\)\;\n\n            String\[\] firstMultipleInput \= bufferedReader\.readLine\(\)\.replaceAll\(\&quot;\\\\s\+\$\&quot;\, \&quot;\&quot;\)\.split\(\&quot; \&quot;\)\;\n\n            int month \= Integer\.parseInt\(firstMultipleInput\[0\]\)\;\n\n            int day \= Integer\.parseInt\(firstMultipleInput\[1\]\)\;\n\n            int year \= Integer\.parseInt\(firstMultipleInput\[2\]\)\;\n\n            String res \= Result\.findDay\(month\, day\, year\)\;\n\n            bufferedWriter\.write\(res\)\;\n            bufferedWriter\.newLine\(\)\;\n\n            bufferedReader\.close\(\)\;\n            bufferedWriter\.close\(\)\;\n        \}\n\n\n\}\n\n\n\nclass Result \{\n\n    \/\*\n     \* Complete the \'findDay\' function below\.\n     \*\n     \* The function is expected to return a STRING\.\n     \* The function accepts following parameters\:\n     \*  1\. INTEGER month\n     \*  2\. INTEGER day\n     \*  3\. INTEGER year\n     \*\/\n\n    public static String findDay\(int month\, int day\, int year\) \{\n\n    \}\n\n\}\n</find>
       <find>root</find>
+      <find>max</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -213,7 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GFG/Java8_Code/IntStream_Practice/IntStream_Sum.java" />
         <option value="$PROJECT_DIR$/src/GFG/Java8_Code/IntStream_Practice/IntStream_Multiply.java" />
         <option value="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/IntStream_Multiply.java" />
         <option value="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/IntStream_Sum.java" />
@@ -264,6 +269,7 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" />
       </list>
     </option>
   </component>
@@ -310,14 +316,6 @@
               <item name="GFG" type="462c0819:PsiDirectoryNode" />
               <item name="Recursion" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GFG" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
-              <item name="problemsForPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -329,7 +327,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639676934299" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639678199923" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -455,7 +453,7 @@
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26054922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26054922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -741,20 +739,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/AbsoluteValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="22" column="23" selection-start-line="19" selection-start-column="8" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1100,8 +1084,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="120">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="287" column="25" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="25" />
+          <folding>
+            <element signature="e#7754#7755#0" expanded="true" />
+            <element signature="e#7803#7804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
