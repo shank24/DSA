@@ -6,8 +6,8 @@ public class Digital_Roots {
     public static void main(String[] args) {
         int n = GetNumber.getNumber();
 
-        System.out.println(getDigitalRoots(n));
-        //System.out.println(getDigitalRootsRec(n));
+        System.out.println(getDigitalRootsIterativeWay(n));
+        System.out.println(getDigitalRootsRec(n));
 
     }
 
@@ -17,7 +17,7 @@ public class Digital_Roots {
         return (n % 9);
     }
 
-    private static int getDigitalRoots(int n) {
+    private static int getDigitalRootsIterativeWay(int n) {
 
         int sum = 0;
 
