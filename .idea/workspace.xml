@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" afterDir="false" />
+    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="Generate_Subsets">
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Rope_Cut_Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Rope_Cut_Problem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,119 +65,128 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
-          <entry key="class" value="17" />
-          <entry key="java" value="266" />
+          <entry key="class" value="21" />
+          <entry key="java" value="271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="17" />
-          <entry key="JAVA" value="266" />
+          <entry key="CLASS" value="21" />
+          <entry key="JAVA" value="271" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="class" value="2" />
           <entry key="dummy" value="192" />
-          <entry key="java" value="22690" />
+          <entry key="java" value="22760" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22690" />
-          <entry key="PLAIN_TEXT" value="192" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="22760" />
+          <entry key="PLAIN_TEXT" value="221" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="156">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/LongestConsecutive1s.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="-282">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/GetSetBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="20" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="128">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CountTotalSetBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="128">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7488">
-              <caret line="287" column="25" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="25" />
+            <state relative-caret-position="128">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.java">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="202">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="432" column="24" lean-forward="true" selection-start-line="432" selection-start-column="24" selection-end-line="432" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/StringBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/Bitwise_Demo.java">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/AbstractStringBuilder.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBits.java">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="358">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -197,6 +207,8 @@
       <find>package Hacker_Rank\.Set_1\;\n\nimport java\.io\.\*\;\n\npublic class Solution_12 \{\n\n        public static void main\(String\[\] args\) throws IOException \{\n            BufferedReader bufferedReader \= new BufferedReader\(new InputStreamReader\(System\.in\)\)\;\n            BufferedWriter bufferedWriter \= new BufferedWriter\(new FileWriter\(System\.getenv\(\&quot;OUTPUT_PATH\&quot;\)\)\)\;\n\n            String\[\] firstMultipleInput \= bufferedReader\.readLine\(\)\.replaceAll\(\&quot;\\\\s\+\$\&quot;\, \&quot;\&quot;\)\.split\(\&quot; \&quot;\)\;\n\n            int month \= Integer\.parseInt\(firstMultipleInput\[0\]\)\;\n\n            int day \= Integer\.parseInt\(firstMultipleInput\[1\]\)\;\n\n            int year \= Integer\.parseInt\(firstMultipleInput\[2\]\)\;\n\n            String res \= Result\.findDay\(month\, day\, year\)\;\n\n            bufferedWriter\.write\(res\)\;\n            bufferedWriter\.newLine\(\)\;\n\n            bufferedReader\.close\(\)\;\n            bufferedWriter\.close\(\)\;\n        \}\n\n\n\}\n\n\n\nclass Result \{\n\n    \/\*\n     \* Complete the \'findDay\' function below\.\n     \*\n     \* The function is expected to return a STRING\.\n     \* The function accepts following parameters\:\n     \*  1\. INTEGER month\n     \*  2\. INTEGER day\n     \*  3\. INTEGER year\n     \*\/\n\n    public static String findDay\(int month\, int day\, int year\) \{\n\n    \}\n\n\}\n</find>
       <find>root</find>
       <find>max</find>
+      <find>package GFG\.Recursion\.problemsInSession\;\n\nimport GFG\.Math_problems\.problemsInSession\.GetNumber\;\n\npublic class Rope_Cut_Problem \{\n    public static void main\(String\[\] args\) \{\n\n        int n \= 5\, a \= 2\, b \= 1\, c \= 5\;\n\n        System\.out\.println\(maxCuts\(n\, a\, b\, c\)\)\;\n\n\n    \}\n\n    static int maxCuts\(int n\, int a\, int b\, int c\)\n    \{\n        if\(n \=\= 0\)\n            return 0\;\n        if\(n \&lt;\= \-1\)\n            return \-1\;\n\n        int res \= Math\.max\(maxCuts\(n\-a\, a\, b\, c\)\,\n                Math\.max\(maxCuts\(n\-b\, a\, b\, c\)\,\n                        maxCuts\(n\-c\, a\, b\, c\)\)\)\;\n\n        if\(res \=\= \-1\)\n            return \-1\;\n\n        return res \+ 1\;\n    \}\n\}\n</find>
+      <find>Builder</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -207,12 +219,16 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shanky Kalra" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/IntStream_Sum.java" />
         <option value="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/Remove_Duplicate.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/TrailingZeros.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/LCM.java" />
@@ -262,6 +278,7 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" />
       </list>
     </option>
@@ -336,7 +353,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639749572108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639751475134" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -362,13 +379,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Rope_Cut_Problem">
-    <configuration name="Digital_Roots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.Digital_Roots" />
+  <component name="RunManager" selected="Application.Generate_Subsets">
+    <configuration name="Generate_Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Generate_Subsets" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsForPractice.*" />
+          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibbo_Rec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Fibbo_Rec" />
+    <configuration name="PowerSetUsingBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Bitwise.problemsInSession.PowerSetUsingBitwise" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="PATTERN" value="GFG.Bitwise.problemsInSession.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,19 +446,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Digital_Roots" />
-      <item itemvalue="Application.Fibbo_Rec" />
       <item itemvalue="Application.Recursive_Power" />
       <item itemvalue="Application.Power_Of_Numbers" />
       <item itemvalue="Application.Rope_Cut_Problem" />
+      <item itemvalue="Application.PowerSetUsingBitwise" />
+      <item itemvalue="Application.Generate_Subsets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generate_Subsets" />
+        <item itemvalue="Application.PowerSetUsingBitwise" />
         <item itemvalue="Application.Rope_Cut_Problem" />
         <item itemvalue="Application.Power_Of_Numbers" />
         <item itemvalue="Application.Recursive_Power" />
-        <item itemvalue="Application.Fibbo_Rec" />
-        <item itemvalue="Application.Digital_Roots" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +479,7 @@
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638982" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08640321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,11 +498,11 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.46649486" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32860824" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.14199598" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -526,6 +543,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generate_Subsets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generate_Subsets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -711,12 +732,6 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.java</url>
           <line>9</line>
           <properties />
@@ -727,6 +742,18 @@
           <line>11</line>
           <properties />
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
@@ -748,41 +775,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/DigitsInFact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/FindGPTerm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/IsPrimeCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Exactly3Divisors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/ModuloSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="992">
@@ -853,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CountTotalSetBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Swap_Odd_Even_Bits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -916,13 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/GetSetBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -941,13 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7520">
           <caret line="252" selection-start-line="252" selection-end-line="252" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/LongestConsecutive1s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -986,13 +957,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -1105,10 +1069,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/LongestConsecutive1s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/GetSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/CountTotalSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/AbstractStringBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/StringBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="432" column="24" lean-forward="true" selection-start-line="432" selection-start-column="24" selection-end-line="432" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="156">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
