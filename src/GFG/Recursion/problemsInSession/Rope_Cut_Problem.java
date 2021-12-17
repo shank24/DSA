@@ -5,30 +5,26 @@ import GFG.Math_problems.problemsInSession.GetNumber;
 public class Rope_Cut_Problem {
     public static void main(String[] args) {
 
-        int n = GetNumber.getNumber();
-        int a = GetNumber.getNumber();
-        int b = GetNumber.getNumber();
-        int c = GetNumber.getNumber();
+        int n = 5, a = 2, b = 1, c = 5;
 
-        System.out.println(maxPieces(n, a, b, c));
+        System.out.println(maxCuts(n, a, b, c));
+
+
     }
 
-    private static int maxPieces(int n, int a, int b, int c) {
-
-        if(n==0)
+    static int maxCuts(int n, int a, int b, int c) {
+        if (n == 0)
             return 0;
-        if(n<0)
+        if (n <= -1)
             return -1;
 
+        int res = Math.max(maxCuts(n - a, a, b, c),
+                  Math.max(maxCuts(n - b, a, b, c),
+                        maxCuts(n - c, a, b, c)));
 
-        int res = Math.max(maxPieces(n-a,a,b,c),
-                            maxPieces(n-b,a,b,c));
-
-
-        if(res==-1)
+        if (res == -1)
             return -1;
-        else
-            return res+1;
 
+        return res + 1;
     }
 }

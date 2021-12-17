@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,25 +65,25 @@
         <counts>
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="17" />
-          <entry key="java" value="265" />
+          <entry key="java" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="17" />
-          <entry key="JAVA" value="265" />
+          <entry key="JAVA" value="266" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="192" />
-          <entry key="java" value="22615" />
+          <entry key="java" value="22690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22615" />
+          <entry key="JAVA" value="22690" />
           <entry key="PLAIN_TEXT" value="192" />
         </counts>
       </usages-collector>
@@ -90,19 +91,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
-              <folding>
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="64">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -130,11 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="448">
+              <caret line="20" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -215,7 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/IntStream_Multiply.java" />
         <option value="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/IntStream_Sum.java" />
         <option value="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/Remove_Duplicate.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/TrailingZeros.java" />
@@ -264,8 +260,9 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Digital_Roots.java" />
-        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java" />
       </list>
     </option>
   </component>
@@ -339,7 +336,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639740384434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639749572108" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -365,20 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursive_Power">
-    <configuration name="CountDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.CountDigits" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsForPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Rope_Cut_Problem">
     <configuration name="Digital_Roots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.Digital_Roots" />
       <module name="DSA_Code" />
@@ -405,12 +389,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetSumOFDigits_Rec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.GetSumOFDigits_Rec" />
+    <configuration name="Power_Of_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.Power_Of_Numbers" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="PATTERN" value="GFG.Recursion.problemsForPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,20 +415,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rope_Cut_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Rope_Cut_Problem" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.GetSumOFDigits_Rec" />
-      <item itemvalue="Application.CountDigits" />
       <item itemvalue="Application.Digital_Roots" />
       <item itemvalue="Application.Fibbo_Rec" />
       <item itemvalue="Application.Recursive_Power" />
+      <item itemvalue="Application.Power_Of_Numbers" />
+      <item itemvalue="Application.Rope_Cut_Problem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rope_Cut_Problem" />
+        <item itemvalue="Application.Power_Of_Numbers" />
         <item itemvalue="Application.Recursive_Power" />
         <item itemvalue="Application.Fibbo_Rec" />
         <item itemvalue="Application.Digital_Roots" />
-        <item itemvalue="Application.CountDigits" />
-        <item itemvalue="Application.GetSumOFDigits_Rec" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +462,7 @@
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2638982" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -731,12 +728,6 @@
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
           <line>34</line>
@@ -757,13 +748,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/QuadraticRoots.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2080">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsForPractice/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
@@ -1100,13 +1084,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1116,8 +1093,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Recursive_Power.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="448">
+          <caret line="20" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Rope_Cut_Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
