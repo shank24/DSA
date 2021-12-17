@@ -20,6 +20,7 @@ public class Generate_Subsets {
             return;
         }
 
+        StringBuilder
         printSub(str, curr, index + 1);
         printSub(str, curr+str.charAt(index), index + 1);
     }
