@@ -41,14 +41,13 @@ public class Print_Permutations {
         if(str=="")
             return "";
 
-        char [] b = str.toCharArray();
+        char [] ch = str.toCharArray();
         char temp;
 
-        temp = b[i];
-        b[i] = b[j];
-        b[j] = temp;
+        temp = ch[i];
+        ch[i] = ch[j];
+        ch[j] = temp;
 
-        return String.valueOf(b);
+        return String.valueOf(ch);
     }
-
 }
