@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +16,7 @@
     <session id="33491364">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="72" />
+          <entry key="project.closed" value="73" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
@@ -38,6 +39,7 @@
           <entry key="project.open.time.40" value="4" />
           <entry key="project.open.time.42" value="3" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="5" />
           <entry key="project.open.time.49" value="1" />
@@ -60,7 +62,7 @@
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="75" />
+          <entry key="project.opened" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,13 +70,13 @@
           <entry key="OUTPUT_PATH" value="1" />
           <entry key="class" value="21" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="282" />
+          <entry key="java" value="288" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="21" />
-          <entry key="JAVA" value="282" />
+          <entry key="JAVA" value="288" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -83,14 +85,14 @@
           <entry key="class" value="3" />
           <entry key="dummy" value="192" />
           <entry key="gitignore" value="15" />
-          <entry key="java" value="24021" />
+          <entry key="java" value="24432" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="24021" />
+          <entry key="JAVA" value="24432" />
           <entry key="PLAIN_TEXT" value="236" />
         </counts>
       </usages-collector>
@@ -99,28 +101,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Towers_Of_Hanoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Josephus_Prob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="660">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#454#455#0" expanded="true" />
@@ -142,25 +126,64 @@
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Lucky_Number.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="532">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-86">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Print_Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            <state relative-caret-position="362">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,26 +194,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Print_Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -233,7 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java8_Code/Interview_Questions/IsProbablePrime.java" />
         <option value="$PROJECT_DIR$/src/Hacker_Rank/Set_1/Solution_25_Primality_Test.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.java" />
         <option value="$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java" />
@@ -284,6 +288,7 @@
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Lucky_Number.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java" />
       </list>
     </option>
   </component>
@@ -305,7 +310,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,17 +345,24 @@
               <item name="Recursion" type="462c0819:PsiDirectoryNode" />
               <item name="problemsForPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA_Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GFG" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="problemsInSession" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="CatdeaLogs" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640625730106" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640712376885" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -375,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Power_Of_Numbers">
+  <component name="RunManager" selected="Application.Power_Set_Using_Rec_Patterns">
     <configuration name="Josephus_Prob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Josephus_Prob" />
       <module name="DSA_Code" />
@@ -415,12 +428,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print_Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsInSession.Print_Permutations" />
+    <configuration name="Power_Set_Using_Rec_Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG.Recursion.problemsForPractice.Power_Set_Using_Rec_Patterns" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Recursion.problemsInSession.*" />
+          <option name="PATTERN" value="GFG.Recursion.problemsForPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,17 +457,17 @@
     <list>
       <item itemvalue="Application.Towers_Of_Hanoi" />
       <item itemvalue="Application.Josephus_Prob" />
-      <item itemvalue="Application.Print_Permutations" />
       <item itemvalue="Application.Lucky_Number" />
       <item itemvalue="Application.Power_Of_Numbers" />
+      <item itemvalue="Application.Power_Set_Using_Rec_Patterns" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Power_Set_Using_Rec_Patterns" />
         <item itemvalue="Application.Power_Of_Numbers" />
         <item itemvalue="Application.Lucky_Number" />
         <item itemvalue="Application.Josephus_Prob" />
         <item itemvalue="Application.Towers_Of_Hanoi" />
-        <item itemvalue="Application.Print_Permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -481,9 +494,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1541" height="912" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17816477" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24514401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,7 +506,38 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4806701" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.14199598" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32953784" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24514401" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Project Explorer" order="7" />
+      <window_info id="Job Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,7 +555,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32953784" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -728,6 +771,18 @@
           <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
           <line>34</line>
@@ -748,13 +803,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/Binary_To_Gray_Code.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Bitwise/problemsForPratice/IsParse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -877,13 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Practice_Problems/Maths_Algo/IsDigPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
@@ -902,13 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/SumOfDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1025,31 +1059,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Towers_Of_Hanoi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Print_Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -1060,10 +1073,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/SumOfDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Palindrome_String_Rec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/CountDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="660">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#454#455#0" expanded="true" />
@@ -1081,28 +1136,31 @@
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Lucky_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/GetNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="49" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Of_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="362">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Print_Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
