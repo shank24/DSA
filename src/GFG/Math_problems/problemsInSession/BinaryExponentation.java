@@ -3,7 +3,7 @@ package GFG.Math_problems.problemsInSession;
 //TC - O(log(n))
 //Aux Space - 1
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class BinaryExponentation {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package GFG.Analysis_of_algorithm.problemsInSession;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Fibbonaci_Number {
 

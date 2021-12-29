@@ -1,6 +1,6 @@
 package GFG.Analysis_of_algorithm.problemsForPractice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 import java.util.Scanner;
 

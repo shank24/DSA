@@ -1,6 +1,6 @@
 package GFG.Bitwise.problemsForPratice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 //T.Complexity is O(k), where k is the length of max
 //consecutive 1s

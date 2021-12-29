@@ -1,7 +1,5 @@
 package GFG.Recursion.problemsInSession;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
-
 public class Rope_Cut_Problem {
     public static void main(String[] args) {
 

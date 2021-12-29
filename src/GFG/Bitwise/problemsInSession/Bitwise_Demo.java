@@ -1,6 +1,6 @@
 package GFG.Bitwise.problemsInSession;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Bitwise_Demo {
     public static void main(String[] args) {

@@ -3,6 +3,8 @@ package GFG.Math_problems.problemsInSession;
 // Time Complexity - Theta(n)
 // Auxillary Space - Theta(1)
 
+import GFG.util.GetNumber;
+
 // Time Complexity - optimizedInSorted - Theta(Sqrt(n)) + Theta(Sqrt(n)) -> Theta(Sqrt(n))
 public class AllDivisors {
     public static void main(String[] args) {

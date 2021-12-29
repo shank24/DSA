@@ -1,6 +1,6 @@
 package GFG.Bitwise.problemsForPratice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class CountTotalSetBits {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package GFG.Recursion.problemsInSession;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Towers_Of_Hanoi {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package GFG.Analysis_of_algorithm.problemsForPractice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class FindSumOFNaturalNumbers {
     public static void main(String[] args) {

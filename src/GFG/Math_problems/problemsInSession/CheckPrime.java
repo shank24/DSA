@@ -2,7 +2,7 @@ package GFG.Math_problems.problemsInSession;
 
 //Time Complexity - (Big-O(Sqrt(n)))
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class CheckPrime {
     public static void main(String[] args) {

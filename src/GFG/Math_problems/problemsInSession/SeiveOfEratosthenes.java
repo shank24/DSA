@@ -3,6 +3,8 @@ package GFG.Math_problems.problemsInSession;
 //TC - findSOF - Big(O(n*Sqrt(n))
 //TC - moreOptimizedWay - (nloglogn)
 
+import GFG.util.GetNumber;
+
 import java.util.Arrays;
 import static GFG.Math_problems.problemsInSession.CheckPrime.optimizedWay;
 

@@ -3,7 +3,7 @@ package GFG.Math_problems.problemsInSession;
 //TC - Theta(N)
 //TC - Theta(Log(n)) + Big(O(1))- optimizedSol + Auxillary Space for Recursion.
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class PowerOfN {
     public static void main(String[] args) {

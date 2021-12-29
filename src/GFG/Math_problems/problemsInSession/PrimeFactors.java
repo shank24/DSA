@@ -3,7 +3,7 @@ package GFG.Math_problems.problemsInSession;
 // Time Complexity - Big(O(n^2logn))
 // Time Complexity - Theta(Sqrt(n)) - in moreOptimizedWay
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 import static GFG.Math_problems.problemsInSession.CheckPrime.*;
 

@@ -1,6 +1,6 @@
 package GFG.Math_problems.problemsForPractice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class FindGPTerm {
 

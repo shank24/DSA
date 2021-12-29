@@ -9,7 +9,7 @@ package GFG.Math_problems.problemsInSession;
 // Auxillary Space is Theta(n+1)
 
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 import java.util.stream.IntStream;
 

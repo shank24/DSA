@@ -1,6 +1,6 @@
-package GFG.Practice_Problems.Maths_Algo;
+package GFG_Practice.Maths_Algo;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class AP_Series {
     public static void main(String[] args) {

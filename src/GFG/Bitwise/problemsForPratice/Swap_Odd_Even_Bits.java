@@ -1,6 +1,6 @@
 package GFG.Bitwise.problemsForPratice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Swap_Odd_Even_Bits {
 

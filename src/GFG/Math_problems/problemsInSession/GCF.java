@@ -2,7 +2,7 @@ package GFG.Math_problems.problemsInSession;
 
 // Time Complexity of min(a,b)
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class GCF {
     public static void main(String[] args) {

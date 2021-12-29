@@ -1,6 +1,6 @@
 package GFG.Recursion.problemsInSession;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Josephus_Prob {
     public static void main(String[] args) {

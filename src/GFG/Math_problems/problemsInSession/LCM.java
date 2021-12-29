@@ -5,7 +5,7 @@ package GFG.Math_problems.problemsInSession;
 //Time Complexity - (BigO(log(min(a,b)))
 
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class LCM {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package GFG.Recursion.problemsForPractice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
-
 import java.util.Scanner;
 
 public class Power_Of_Numbers {

@@ -4,7 +4,7 @@ package GFG.Math_problems.problemsInSession;
 
 // Time Complexity is Theta(logn) - 5 to the power k - Way
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class TrailingZeros {
     public static void main(String[] args) {

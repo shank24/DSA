@@ -3,7 +3,7 @@ package GFG.Math_problems.problemsInSession;
 
 // Time Complexity is Theta(digits)
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class FindDigits {
 

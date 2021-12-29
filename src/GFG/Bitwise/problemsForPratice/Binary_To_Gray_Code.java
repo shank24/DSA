@@ -1,6 +1,6 @@
 package GFG.Bitwise.problemsForPratice;
 
-import GFG.Math_problems.problemsInSession.GetNumber;
+import GFG.util.GetNumber;
 
 public class Binary_To_Gray_Code {
 

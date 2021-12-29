@@ -1,4 +1,4 @@
-package GFG.Math_problems.problemsInSession;
+package GFG.util;
 
 import java.util.Scanner;
 
