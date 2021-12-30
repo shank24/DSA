@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/InsertInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/InsertInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/InsertInArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,14 +85,14 @@
           <entry key="class" value="3" />
           <entry key="dummy" value="192" />
           <entry key="gitignore" value="18" />
-          <entry key="java" value="25530" />
+          <entry key="java" value="25610" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="25530" />
+          <entry key="JAVA" value="25610" />
           <entry key="PLAIN_TEXT" value="239" />
         </counts>
       </usages-collector>
@@ -146,8 +145,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/InsertInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="660">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -364,7 +363,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640848153082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1640848555981" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -1167,8 +1166,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/InsertInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="660">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>

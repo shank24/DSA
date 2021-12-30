@@ -45,3 +45,7 @@ public class InsertInArray {
         return n + 1;
     }
 }
+
+
+//Time Complexity - Big(O(n)).
+// The Best case is to insert at the end.
