@@ -25,7 +25,6 @@ public class IntStream_Operations {
                 .rangeClosed(1,n)
                 .reduce(Integer::sum)
                 .getAsInt();
-
     }
 
     private static int getFactorial(int n) {
