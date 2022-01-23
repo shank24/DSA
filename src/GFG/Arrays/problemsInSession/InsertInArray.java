@@ -48,4 +48,5 @@ public class InsertInArray {
 
 
 //Time Complexity - Big(O(n)).
-// The Best case is to insert at the end.
+//The Best case is to insert at the end.
+//Theta N - in case, we are inserting at the beginning.
