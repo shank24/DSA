@@ -14,10 +14,9 @@ public class ReverseDigits {
         if(n<=0)
             return n;
 
-        long r=0,sum=0;
+        long sum=0;
         while (n!=0){
-            r=n%10;
-            sum = r + (sum*10);
+            sum = n%10 + (sum*10);
             n=n/10;
         }
 
