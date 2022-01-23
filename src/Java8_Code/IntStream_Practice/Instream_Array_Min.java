@@ -5,7 +5,7 @@ import GFG.util.GetNumber;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class Instream_Array_Operations {
+public class Instream_Array_Min {
 
     public static void main(String[] args) {
         int range  = GetNumber.getNumber();
@@ -16,7 +16,7 @@ public class Instream_Array_Operations {
 
         IntStream stream = Arrays.stream(arr);
 
-        System.out.println(getMaximum(stream));
+        System.out.println(getMinimum(stream));
 
         stream.close();
 
@@ -28,8 +28,9 @@ public class Instream_Array_Operations {
         }
     }
 
-    private static int getMaximum(IntStream stream) {
-        return stream.max().orElse(-1);
+    private static int getMinimum(IntStream stream) {
+
+        return stream.min().orElse(-1);
     }
 
 }
