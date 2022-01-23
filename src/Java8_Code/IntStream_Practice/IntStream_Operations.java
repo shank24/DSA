@@ -15,7 +15,16 @@ public class IntStream_Operations {
         getOddNumbers(n);
         System.out.println(getMaxNumber(n));
         System.out.println(getMinNumber(n));
+        System.out.println(getSum(n));
 
+
+    }
+
+    private static int getSum(int n) {
+        return IntStream
+                .rangeClosed(1,n)
+                .reduce(Integer::sum)
+                .getAsInt();
 
     }
 
