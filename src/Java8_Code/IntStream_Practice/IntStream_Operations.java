@@ -1,4 +1,4 @@
-package java8_Code.stream;
+package Java8_Code.IntStream_Practice;
 
 import GFG.util.GetNumber;
 

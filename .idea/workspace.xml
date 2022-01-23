@@ -339,7 +339,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642924500911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642924603334" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest Assured/FW/LumiPlus" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -365,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IntStream_Multiply">
     <configuration name="Automorphic_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GFG_Practice.Maths_Algo.Automorphic_Number" />
       <module name="DSA_Code" />
@@ -392,12 +392,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntStream_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8_Code.stream.IntStream_Operations" />
+    <configuration name="IntStream_Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.IntStream_Multiply" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8_Code.stream.*" />
+          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntStream_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.IntStream_Operations" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,33 +431,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElemInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Arrays.problemsInSession.SearchElemInArray" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GFG.Arrays.problemsInSession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SearchElemInArray" />
       <item itemvalue="Application.ReverseDigits" />
       <item itemvalue="Application.Automorphic_Number" />
       <item itemvalue="Application.GCF" />
       <item itemvalue="Application.IntStream_Operations" />
+      <item itemvalue="Application.IntStream_Multiply" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntStream_Multiply" />
         <item itemvalue="Application.IntStream_Operations" />
         <item itemvalue="Application.GCF" />
         <item itemvalue="Application.Automorphic_Number" />
         <item itemvalue="Application.ReverseDigits" />
-        <item itemvalue="Application.SearchElemInArray" />
       </list>
     </recent_temporary>
   </component>
