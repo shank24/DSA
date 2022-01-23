@@ -23,6 +23,7 @@ public class Factorial {
     }
 
     private static int viaStream(int number) {
+
         return IntStream.rangeClosed(2,number).reduce(1,(x,y) -> x*y);
     }
 
