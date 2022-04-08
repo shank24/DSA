@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/FibboNacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/RunningSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/RunningSumOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,20 +190,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunningSumOfArray">
-    <configuration name="Instream_Array_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.Instream_Array_Max" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="Instream_Array_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.Instream_Array_Min" />
       <module name="DSA_Code" />
@@ -242,6 +230,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.Palindrome" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunningSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.RunningSumOfArray" />
       <module name="DSA_Code" />
@@ -257,18 +258,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.IntStream_Operations" />
-      <item itemvalue="Application.Instream_Array_Max" />
       <item itemvalue="Application.Instream_Array_Min" />
       <item itemvalue="Application.Instream_Array_Reverse" />
       <item itemvalue="Application.RunningSumOfArray" />
+      <item itemvalue="Application.Palindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.RunningSumOfArray" />
         <item itemvalue="Application.Instream_Array_Reverse" />
         <item itemvalue="Application.IntStream_Operations" />
         <item itemvalue="Application.Instream_Array_Min" />
-        <item itemvalue="Application.Instream_Array_Max" />
       </list>
     </recent_temporary>
   </component>
@@ -547,11 +548,6 @@
           <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java</url>
           <line>17</line>
           <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/RunningSumOfArray.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
