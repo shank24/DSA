@@ -32,10 +32,10 @@ public class RunningSumOfArray {
 
     public static int[] runningSum(int[] nums) {
         int array[] = new int[nums.length];
+        array[0]=nums[0];
 
-        for (int i = 0; i <nums.length; i++) {
-            for(int j = 0; j <i; j++)
-                array[j] = nums[j]+nums[j+1];
+        for (int i = 1; i <nums.length; i++) {
+                array[i] = array[i-1]+nums[i];
         }
         return array;
     }
