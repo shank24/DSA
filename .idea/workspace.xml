@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/FibboNacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/FibboNacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +189,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibboNacci">
+  <component name="RunManager" selected="Application.String_Reverse">
     <configuration name="FibboNacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FibboNacci" />
       <module name="DSA_Code" />
@@ -205,19 +205,6 @@
     </configuration>
     <configuration name="Instream_Array_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.Instream_Array_Reverse" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntStream_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.IntStream_Operations" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -255,20 +242,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.String_Reverse" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.IntStream_Operations" />
       <item itemvalue="Application.Instream_Array_Reverse" />
       <item itemvalue="Application.RunningSumOfArray" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.FibboNacci" />
+      <item itemvalue="Application.String_Reverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Reverse" />
         <item itemvalue="Application.FibboNacci" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.RunningSumOfArray" />
         <item itemvalue="Application.Instream_Array_Reverse" />
-        <item itemvalue="Application.IntStream_Operations" />
       </list>
     </recent_temporary>
   </component>
