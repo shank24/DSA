@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/RunningSumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +189,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Instream_Array_Reverse">
+  <component name="RunManager" selected="Application.RunningSumOfArray">
     <configuration name="Instream_Array_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.Instream_Array_Max" />
       <module name="DSA_Code" />
@@ -228,19 +229,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntStream_Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.IntStream_Multiply" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IntStream_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.IntStream_Operations" />
       <module name="DSA_Code" />
@@ -254,20 +242,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunningSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.RunningSumOfArray" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.IntStream_Operations" />
-      <item itemvalue="Application.IntStream_Multiply" />
       <item itemvalue="Application.Instream_Array_Max" />
       <item itemvalue="Application.Instream_Array_Min" />
       <item itemvalue="Application.Instream_Array_Reverse" />
+      <item itemvalue="Application.RunningSumOfArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunningSumOfArray" />
         <item itemvalue="Application.Instream_Array_Reverse" />
         <item itemvalue="Application.IntStream_Operations" />
         <item itemvalue="Application.Instream_Array_Min" />
         <item itemvalue="Application.Instream_Array_Max" />
-        <item itemvalue="Application.IntStream_Multiply" />
       </list>
     </recent_temporary>
   </component>
