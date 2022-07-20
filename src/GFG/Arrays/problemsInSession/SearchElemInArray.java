@@ -26,17 +26,16 @@ public class SearchElemInArray {
     private static boolean searchNum(int[] arr, int search) {
 
         int flag=0;
-
         if(arr.length==0)
             return false;
 
         int i=0;
         while (i<=arr.length){
-            if(arr[i]==search)
+            if(arr[i]==search){
                 flag=1;
-                i++;
                 break;
-
+            }
+            i++;
         }
 
         if(flag==1)
