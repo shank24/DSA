@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/SearchElemInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/SearchElemInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -547,11 +546,6 @@
           <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java</url>
           <line>17</line>
           <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GFG/Arrays/problemsInSession/SearchElemInArray.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
