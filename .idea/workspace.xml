@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Reverse_Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,9 +189,9 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMax">
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FindMax" />
+  <component name="RunManager" selected="Application.Reverse_Order">
+    <configuration name="FindSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FindSecondMax" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -203,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FindSecondMax" />
+    <configuration name="Reverse_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Reverse_Order" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.String_Reverse" />
       <item itemvalue="Application.FindSecondMax" />
-      <item itemvalue="Application.Sum_First_Natural_Numbers" />
       <item itemvalue="Application.SearchElemInArray" />
-      <item itemvalue="Application.FindMax" />
+      <item itemvalue="Application.String_Reverse" />
+      <item itemvalue="Application.Sum_First_Natural_Numbers" />
+      <item itemvalue="Application.Reverse_Order" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.SearchElemInArray" />
+        <item itemvalue="Application.Reverse_Order" />
         <item itemvalue="Application.Sum_First_Natural_Numbers" />
-        <item itemvalue="Application.FindSecondMax" />
         <item itemvalue="Application.String_Reverse" />
+        <item itemvalue="Application.SearchElemInArray" />
+        <item itemvalue="Application.FindSecondMax" />
       </list>
     </recent_temporary>
   </component>
