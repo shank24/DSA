@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Pattern_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/CharCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/StringCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +190,20 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reverse_Order">
+  <component name="RunManager" selected="Application.StringCount">
+    <configuration name="CharCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CharCheck" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Pattern_Check" />
       <module name="DSA_Code" />
@@ -216,25 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElemInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG.Arrays.problemsInSession.SearchElemInArray" />
+    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.StringCount" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GFG.Arrays.problemsInSession.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.String_Reverse" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SearchElemInArray" />
-      <item itemvalue="Application.String_Reverse" />
       <item itemvalue="Application.Sum_First_Natural_Numbers" />
       <item itemvalue="Application.Reverse_Order" />
       <item itemvalue="Application.Pattern_Check" />
+      <item itemvalue="Application.CharCheck" />
+      <item itemvalue="Application.StringCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCount" />
+        <item itemvalue="Application.CharCheck" />
         <item itemvalue="Application.Reverse_Order" />
         <item itemvalue="Application.Pattern_Check" />
         <item itemvalue="Application.Sum_First_Natural_Numbers" />
-        <item itemvalue="Application.String_Reverse" />
-        <item itemvalue="Application.SearchElemInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -547,6 +548,16 @@
           <url>file://$PROJECT_DIR$/src/GFG/Recursion/problemsForPractice/Power_Set_Using_Rec_Patterns.java</url>
           <line>17</line>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JetBrains_Academy/Session_1/CharCheck.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JetBrains_Academy/Session_1/CharCheck.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
