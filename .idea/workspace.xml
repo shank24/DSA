@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Logical_Oper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +189,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleBot">
+  <component name="RunManager" selected="Application.Logical_Oper">
     <configuration name="CharCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CharCheck" />
       <module name="DSA_Code" />
@@ -203,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Pattern_Check" />
+    <configuration name="Logical_Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Logical_Oper" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -257,18 +257,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Reverse_Order" />
-      <item itemvalue="Application.Pattern_Check" />
       <item itemvalue="Application.CharCheck" />
       <item itemvalue="Application.StringCount" />
       <item itemvalue="Application.SimpleBot" />
+      <item itemvalue="Application.Logical_Oper" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Logical_Oper" />
         <item itemvalue="Application.SimpleBot" />
         <item itemvalue="Application.StringCount" />
         <item itemvalue="Application.CharCheck" />
         <item itemvalue="Application.Reverse_Order" />
-        <item itemvalue="Application.Pattern_Check" />
       </list>
     </recent_temporary>
   </component>
