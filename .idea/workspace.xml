@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Conditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/IfElseCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +189,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Conditional">
+  <component name="RunManager" selected="Application.IfElseCheck">
     <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Conditional" />
       <module name="DSA_Code" />
@@ -203,8 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical_Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Logical_Oper" />
+    <configuration name="IfElseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.IfElseCheck" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -256,19 +256,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Logical_Oper" />
       <item itemvalue="Application.Relational_Op" />
       <item itemvalue="Application.RangeCheck" />
       <item itemvalue="Application.RangeCheckVal" />
       <item itemvalue="Application.Conditional" />
+      <item itemvalue="Application.IfElseCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElseCheck" />
         <item itemvalue="Application.Conditional" />
         <item itemvalue="Application.RangeCheckVal" />
         <item itemvalue="Application.RangeCheck" />
         <item itemvalue="Application.Relational_Op" />
-        <item itemvalue="Application.Logical_Oper" />
       </list>
     </recent_temporary>
   </component>
