@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Logical_Oper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/RangeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Relational_Op.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,20 +190,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Logical_Oper">
-    <configuration name="CharCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CharCheck" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RangeCheck">
     <configuration name="Logical_Oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Logical_Oper" />
       <module name="DSA_Code" />
@@ -216,8 +204,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Reverse_Order" />
+    <configuration name="RangeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.RangeCheck" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Relational_Op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Relational_Op" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -256,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Reverse_Order" />
-      <item itemvalue="Application.CharCheck" />
       <item itemvalue="Application.StringCount" />
       <item itemvalue="Application.SimpleBot" />
       <item itemvalue="Application.Logical_Oper" />
+      <item itemvalue="Application.Relational_Op" />
+      <item itemvalue="Application.RangeCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RangeCheck" />
+        <item itemvalue="Application.Relational_Op" />
         <item itemvalue="Application.Logical_Oper" />
         <item itemvalue="Application.SimpleBot" />
         <item itemvalue="Application.StringCount" />
-        <item itemvalue="Application.CharCheck" />
-        <item itemvalue="Application.Reverse_Order" />
       </list>
     </recent_temporary>
   </component>
