@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/CheckDecSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBotOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Session_1/Ternary_Check.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +191,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckDecSymmetric">
+  <component name="RunManager" selected="Application.SimpleBotOptimized">
     <configuration name="CheckDecSymmetric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CheckDecSymmetric" />
       <module name="DSA_Code" />
@@ -216,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Conditional" />
+    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Bots.SimpleBot" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="PATTERN" value="JetBrains_Academy.Bots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.IfElseCheck" />
+    <configuration name="SimpleBotOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Bots.SimpleBotOptimized" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="PATTERN" value="JetBrains_Academy.Bots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,8 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeCheckVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.RangeCheckVal" />
+    <configuration name="Ternary_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Ternary_Check" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -256,19 +258,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RangeCheckVal" />
-      <item itemvalue="Application.Conditional" />
-      <item itemvalue="Application.IfElseCheck" />
       <item itemvalue="Application.CheckTri" />
       <item itemvalue="Application.CheckDecSymmetric" />
+      <item itemvalue="Application.Ternary_Check" />
+      <item itemvalue="Application.SimpleBot" />
+      <item itemvalue="Application.SimpleBotOptimized" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleBotOptimized" />
+        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Ternary_Check" />
         <item itemvalue="Application.CheckDecSymmetric" />
         <item itemvalue="Application.CheckTri" />
-        <item itemvalue="Application.IfElseCheck" />
-        <item itemvalue="Application.Conditional" />
-        <item itemvalue="Application.RangeCheckVal" />
       </list>
     </recent_temporary>
   </component>
