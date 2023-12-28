@@ -11,13 +11,9 @@ public class Instream_Array_Max {
         int range  = GetNumber.getNumber();
 
         int arr[] = new int[range];
-
         inputArray(range, arr);
-
         IntStream stream = Arrays.stream(arr);
-
         System.out.println(getMaximum(stream));
-
         stream.close();
 
     }
