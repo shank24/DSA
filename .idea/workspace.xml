@@ -190,13 +190,13 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleBotOptimized">
-    <configuration name="CheckDecSymmetric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CheckDecSymmetric" />
+  <component name="RunManager" selected="Application.String_Reverse">
+    <configuration name="FibboNacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FibboNacci" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckTri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.CheckTri" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.Palindrome" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Session_1.Ternary_Check" />
+    <configuration name="String_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.String_Reverse" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Session_1.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckTri" />
-      <item itemvalue="Application.CheckDecSymmetric" />
-      <item itemvalue="Application.Ternary_Check" />
+      <item itemvalue="Application.FibboNacci" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.String_Reverse" />
       <item itemvalue="Application.SimpleBot" />
       <item itemvalue="Application.SimpleBotOptimized" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Reverse" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.FibboNacci" />
         <item itemvalue="Application.SimpleBotOptimized" />
         <item itemvalue="Application.SimpleBot" />
-        <item itemvalue="Application.Ternary_Check" />
-        <item itemvalue="Application.CheckDecSymmetric" />
-        <item itemvalue="Application.CheckTri" />
       </list>
     </recent_temporary>
   </component>
