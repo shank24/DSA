@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JetBrains_Academy/Bots/SimpleBotOptimized.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +112,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="-4" />
@@ -175,12 +174,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642947432207" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BDD_USING_JAVA-master" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FibboNacci.executor": "Run",
+    "Application.Instream_Array_Max.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.String_Reverse.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java8_Code.IntStream_Practice" />
@@ -190,7 +195,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_Reverse">
+  <component name="RunManager" selected="Application.Instream_Array_Max">
     <configuration name="FibboNacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FibboNacci" />
       <module name="DSA_Code" />
@@ -204,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.Palindrome" />
+    <configuration name="Instream_Array_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_Code.IntStream_Practice.Instream_Array_Max" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.*" />
+          <option name="PATTERN" value="Java8_Code.IntStream_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Bots.SimpleBot" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.Palindrome" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Bots.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,20 +263,27 @@
     </configuration>
     <list>
       <item itemvalue="Application.FibboNacci" />
+      <item itemvalue="Application.Instream_Array_Max" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.String_Reverse" />
-      <item itemvalue="Application.SimpleBot" />
       <item itemvalue="Application.SimpleBotOptimized" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Instream_Array_Max" />
         <item itemvalue="Application.String_Reverse" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FibboNacci" />
         <item itemvalue="Application.SimpleBotOptimized" />
-        <item itemvalue="Application.SimpleBot" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
