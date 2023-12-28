@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/Instream_Array_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/Instream_Array_Max.java" afterDir="false" />
-    </list>
+    <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +182,7 @@
     "Application.FibboNacci.executor": "Run",
     "Application.Instream_Array_Max.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PrintOneToHundred.executor": "Run",
     "Application.String_Reverse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -201,7 +199,7 @@
       <recent name="GFG.Recursion.problemsInSession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Instream_Array_Max">
+  <component name="RunManager" selected="Application.PrintOneToHundred">
     <configuration name="FibboNacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.FibboNacci" />
       <module name="DSA_Code" />
@@ -241,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleBotOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JetBrains_Academy.Bots.SimpleBotOptimized" />
+    <configuration name="PrintOneToHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.PrintOneToHundred" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JetBrains_Academy.Bots.*" />
+          <option name="PATTERN" value="Naveen_Automation_Labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,16 +269,16 @@
       <item itemvalue="Application.FibboNacci" />
       <item itemvalue="Application.Instream_Array_Max" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.PrintOneToHundred" />
       <item itemvalue="Application.String_Reverse" />
-      <item itemvalue="Application.SimpleBotOptimized" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintOneToHundred" />
         <item itemvalue="Application.Instream_Array_Max" />
         <item itemvalue="Application.String_Reverse" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FibboNacci" />
-        <item itemvalue="Application.SimpleBotOptimized" />
       </list>
     </recent_temporary>
   </component>
