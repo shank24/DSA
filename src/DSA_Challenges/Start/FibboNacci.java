@@ -4,7 +4,6 @@ import GFG.util.GetNumber;
 
 public class FibboNacci {
     public static void main(String[] args) {
-
         int range = GetNumber.getNumber();
         System.out.println(fibbo(range));
     }
