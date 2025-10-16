@@ -2,6 +2,10 @@ package Neutrino.String;
 
 public class LearnStrings {
     public static void main(String[] args) {
+        contentCheck();
+        indexOfProgram();
+        indexOfString();
+        getSubstring();
         lengthOfString();
         containsTextInString();
         compareStringAlphabetically();
@@ -12,6 +16,57 @@ public class LearnStrings {
         blankCheck();
         caseCheck();
         checkString();
+    }
+
+    private static void contentCheck() {
+        String text = "apple";
+        StringBuilder text2 = new StringBuilder("apple");
+
+        //STR Tempalte - From Java Version 21
+        //System.out.println(STR."/{text}");
+        System.out.println(text.contentEquals(text2));
+    }
+
+    private static void indexOfProgram() {
+        String phoneNumber = "(135) 256-9874";
+
+        String areaCode = getAreaCode(phoneNumber);
+        String exchange = getExchange(phoneNumber);
+        String lineNumber = getLineNumber(phoneNumber);
+        System.out.println(areaCode);
+        System.out.println(exchange);
+        System.out.println(lineNumber);
+
+    }
+
+    private static String getAreaCode(String phoneNumber) {
+        int openParens =  phoneNumber.indexOf("(");
+        int closeParens = phoneNumber.indexOf(")");
+        return phoneNumber.substring(openParens+1,closeParens);
+    }
+
+    private static String getExchange(String phoneNumber) {
+        int space =  phoneNumber.indexOf(" ");
+        int hyphen = phoneNumber.indexOf("-");
+        return phoneNumber.substring(space+1,hyphen);
+    }
+
+    private static String getLineNumber(String phoneNumber) {
+        int hyphen = phoneNumber.indexOf("-");
+        return phoneNumber.substring(hyphen+1);
+    }
+
+
+
+    private static void indexOfString() {
+        String text = "four eleven";
+        System.out.println(text.indexOf("n"));
+    }
+
+    private static void getSubstring() {
+        String text = "apple";
+        String formatText = text.substring(0,1).toUpperCase()+text.substring(1);
+        System.out.println(formatText);
     }
 
     private static void lengthOfString() {

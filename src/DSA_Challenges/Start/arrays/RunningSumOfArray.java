@@ -19,23 +19,23 @@ public class RunningSumOfArray {
         int arr[] = new int[range];
 
         System.out.println("Enter the Elements in an array");
-        for (int i = 0; i <range ; i++) {
-            arr[i]=scanner.nextInt();
+        for (int i = 0; i < range; i++) {
+            arr[i] = scanner.nextInt();
         }
 
         int arr1[] = runningSum(arr);
 
-        for (int i = 0; i <range ; i++) {
+        for (int i = 0; i < range; i++) {
             System.out.println(arr1[i]);
         }
     }
 
     public static int[] runningSum(int[] nums) {
-        int array[] = new int[nums.length];
-        array[0]=nums[0];
+        int[] array = new int[nums.length];
+        array[0] = nums[0];
 
-        for (int i = 1; i <nums.length; i++) {
-                array[i] = array[i-1]+nums[i];
+        for (int i = 1; i < nums.length; i++) {
+            array[i] = array[i - 1] + nums[i];
         }
         return array;
     }

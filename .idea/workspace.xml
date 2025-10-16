@@ -5,131 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/AddBinaryNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/Array_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/BiggestThreeOfAllNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/CheckEvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/Swapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/String_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8_Code/IntStream_Practice/Instream_Array_Max1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8_Code/Learning/Primitive/ReferenceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/business/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Base/model/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/String/LearnStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/String/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/ArrayEqualsCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindCommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/OccurenceOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/FindCommonElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/FindMaxAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/RemoveDuplicatesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/RemoveElemInOccur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/SearchAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/GetAChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/InsertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/PairAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/PrintFirstLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/RemoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/SwapPairAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/CheckAnagramStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/FindOccurrenceOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/GetSpecificCharatIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/ReplaceSpecificCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverseEachChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SwapPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/CheckEqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/FindHighestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveElementInOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SearchAnElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortAnArrayInAsc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortAnArrayInDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortZerosAndOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/collection/FindMinOrMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/collection/SumList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/patterns/RightTriangleStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/AnagramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckAnagramStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/EvenLengthString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfACharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfAEachCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/GetIndexFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/InsertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/OddLengthString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/RemoveLeadingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReplaceCharAtSpecificindex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseEachCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/SwapPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/LinkedListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/SyncronizedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/VectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/CompareHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashCodeConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapToArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashTableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/TreeMapConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/RemoveDuplicateInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/RemoveDuplicateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/EnumSetConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/HashSetConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/PatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/PatternPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/RegexPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/RegexPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Neutrino/String/SplitCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindNumberInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindNumberInAnArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsForPractice/FindSumOFNaturalNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Fibbonaci_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/IsPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Analysis_of_algorithm/problemsInSession/Sum_First_Natural_Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Binary_To_Gray_Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Binary_To_Gray_Code.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/BitDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/BitDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/CheckKthbitSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/CheckKthbitSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/CountTotalSetBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/CountTotalSetBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/GetSetBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/GetSetBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/IsParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/IsParse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/IsPowerOf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/IsPowerOf2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/LongestConsecutive1s.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/LongestConsecutive1s.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Max_And_Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Max_And_Value.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/OnesComplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/OnesComplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/RightMostDifferentBit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/ShiftCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/ShiftCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Swap_Odd_Even_Bits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsForPratice/Swap_Odd_Even_Bits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/Bitwise_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/Bitwise_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/CountSetBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/CountSetBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/CountSetBitsOptimizedWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/FindMissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/FindMissingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/KThBit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/KThBit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/OddOccurenceNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/OddOccurenceNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/PowerOf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/PowerOf2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/PowerSetUsingBitwise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Bitwise/problemsInSession/TwoOddOccurenceNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/AbsoluteValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/AbsoluteValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/CelciusToFahrenheit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/DigitsInFact.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/DigitsInFact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/Exactly3Divisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/Exactly3Divisors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/FindGPTerm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/FindGPTerm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/IsPrimeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsForPractice/IsPrimeCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/AllDivisors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/AllDivisors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/BinaryExponentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/BinaryExponentation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/CheckPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/CheckPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/FindDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/FindDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/FindPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/FindPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/GCF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/GCF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/LCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/PowerOfN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/PowerOfN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/PrimeFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/PrimeFactors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/SeiveOfEratosthenes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/TrailingZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Math_problems/problemsInSession/TrailingZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/CountDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/CountDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Digital_Roots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Digital_Roots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Power_Of_Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Power_Of_Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Print1ToN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Print1ToN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Recursive_Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/Recursive_Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsForPractice/SumOfDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Fact_Using_Tail_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Fact_Using_Tail_Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Fibbo_Rec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Fibbo_Rec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Generate_Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Generate_Subsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Generate_Sum_Subsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/GetSumOFDigits_Rec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/GetSumOFNNaturalNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/GetSumOFNNaturalNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Josephus_Prob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Josephus_Prob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Palindrome_String_Rec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Palindrome_String_Rec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/PrintNumberUsingRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Print_Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Print_Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Intro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Riddles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Riddles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Recursion_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Reverse_Number_Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Rope_Cut_Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Rope_Cut_Problem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Towers_Of_Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/GFG/Recursion/problemsInSession/Towers_Of_Hanoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$ExitTrappedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate$ExitTrappedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/DoNotTerminate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_10_Static_Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_10_Static_Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_11_Int_To_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_11_Int_To_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_12_Data_Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_12_Data_Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_13_Currency_Formatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_13_Currency_Formatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_14_Strings_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_14_Strings_Intro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_25_Primality_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_25_Primality_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_2_StdIn_Stdout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_2_StdIn_Stdout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_3_If_Else.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_3_If_Else.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_4_In_Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_4_In_Out.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_5_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_5_Formatting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_6_Loops_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_6_Loops_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_7_Loops_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_7_Loops_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_8_DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_8_DataTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_9_EOF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1/Solution_9_EOF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1_30_Days_Code/Solution_1_Welcome_Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Set_1_30_Days_Code/Solution_1_Welcome_Java.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Util/GetNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Hacker_Rank/Util/GetNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/IntStream_Practice/IntStream_Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/IntStream_Practice/IntStream_Multiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/IntStream_Practice/IntStream_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/IntStream_Practice/IntStream_Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/Interview_Questions/IsPrimeBigInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/Interview_Questions/IsPrimeBigInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/Interview_Questions/Remove_Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Java8_Code/Interview_Questions/Remove_Duplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/LeetCode/Easy/Array_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Naveen_Automation_Labs/PrintOneToHundred.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Naveen_Automation_Labs/PrintOneToHundred.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModularMulInverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModularMulInverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModuloMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModuloMultiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModuloSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/ModuloSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadRoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadRoots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadraticRoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/math_problems/problemsForPractice/QuadraticRoots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/FibboNacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/recursion/FibboNacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/FindMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/FindSecondMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/FindSecondMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/RunningSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Easy/Array_Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/strings/String_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/strings/String_Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Neutrino/String/LearnStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Neutrino/String/LearnStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/String_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/String_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Neutrino/String/LearnStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Neutrino/String/LearnStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,23 +268,106 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddBinaryNumber.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
+    "Application.AnagramString.executor": "Run",
+    "Application.ArrayEqualsCheck.executor": "Run",
+    "Application.ArrayListCompare.executor": "Run",
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.ArrayListMethods.executor": "Run",
     "Application.Array_Sum.executor": "Run",
     "Application.BiggestThreeOfAllNumbers.executor": "Run",
+    "Application.CheckAnagramStrings.executor": "Run",
+    "Application.CheckEqualArrays.executor": "Run",
     "Application.CheckEvenOrOdd.executor": "Run",
+    "Application.CheckVowel.executor": "Run",
+    "Application.Code.executor": "Run",
+    "Application.CompareHashMaps.executor": "Run",
+    "Application.EnumSetConcepts (1).executor": "Run",
+    "Application.EnumSetConcepts.executor": "Run",
+    "Application.EvenLengthString.executor": "Run",
     "Application.FibboNacci.executor": "Run",
+    "Application.FindCommonElem.executor": "Run",
+    "Application.FindCommonElements.executor": "Run",
+    "Application.FindDuplicates.executor": "Run",
+    "Application.FindHighestInArray.executor": "Run",
     "Application.FindMax.executor": "Run",
+    "Application.FindMaxAgain.executor": "Run",
+    "Application.FindMinOrMax.executor": "Run",
+    "Application.FindOccurenceOfACharInString.executor": "Run",
+    "Application.FindOccurenceOfAEachCharInString.executor": "Debug",
+    "Application.FindOccurrenceOfChar.executor": "Run",
     "Application.FindSecondMax.executor": "Run",
     "Application.Get.executor": "Run",
+    "Application.GetAChar.executor": "Run",
+    "Application.GetIndexFromString.executor": "Run",
+    "Application.GetSpecificCharatIndex.executor": "Run",
+    "Application.HashCodeConcept.executor": "Debug",
+    "Application.HashMapBasics.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.HashMapInitialization.executor": "Run",
+    "Application.HashMapSync.executor": "Run",
+    "Application.HashMapToArrayList.executor": "Run",
+    "Application.HashSetConcepts.executor": "Run",
+    "Application.HashSetDemo.executor": "Debug",
+    "Application.HashTableDemo.executor": "Run",
+    "Application.InsertString.executor": "Run",
     "Application.Instream_Array_Max.executor": "Run",
     "Application.Instream_Array_Max1.executor": "Run",
     "Application.LearnStrings.executor": "Run",
+    "Application.LinkedListDemo.executor": "Run",
+    "Application.LinkedListDemo1.executor": "Run",
+    "Application.LinkedListMethods.executor": "Run",
+    "Application.ListDemo.executor": "Run",
+    "Application.Naveen_Automation_Labs.Collection.List.ArrayListDemo.executor": "Run",
+    "Application.OccurenceOfNumber.executor": "Run",
+    "Application.OddLengthString.executor": "Run",
+    "Application.PairAnagram.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PatternDemo.executor": "Run",
+    "Application.PatternPhoneNumber.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.PrimitiveType.executor": "Run",
+    "Application.PrintFirstLetter.executor": "Run",
     "Application.PrintOneToHundred.executor": "Run",
     "Application.ReferenceType.executor": "Run",
+    "Application.RegexPractice.executor": "Run",
+    "Application.RegexPractice1.executor": "Run",
+    "Application.RemoveDuplicateString.executor": "Run",
+    "Application.RemoveDuplicateValues.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Debug",
+    "Application.RemoveDuplicatesArray.executor": "Run",
+    "Application.RemoveElemInOccur.executor": "Run",
+    "Application.RemoveElementInOccurrence.executor": "Run",
+    "Application.RemoveLeadingZeros.executor": "Run",
+    "Application.RemoveZeros.executor": "Run",
+    "Application.ReplaceCharAtSpecificindex.executor": "Run",
+    "Application.ReplaceSpecificCharInString.executor": "Run",
+    "Application.ReverseEachCharacterInString.executor": "Run",
+    "Application.ReverseEachWordsInString.executor": "Run",
+    "Application.ReverseWordInString.executor": "Run",
+    "Application.ReverseWordsInString.executor": "Run",
+    "Application.RightTriangleStar.executor": "Run",
+    "Application.RunningSumOfArray.executor": "Debug",
+    "Application.SearchAnElement.executor": "Run",
+    "Application.SearchAnElementInAnArray.executor": "Run",
+    "Application.SortAnArray.executor": "Debug",
+    "Application.SortAnArrayInDesc.executor": "Run",
+    "Application.SortArray.executor": "Run",
+    "Application.SortString.executor": "Run",
+    "Application.SortZerosAndOnes.executor": "Run",
+    "Application.SplitCSV.executor": "Run",
     "Application.StringConcat.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StringReverseEachChar.executor": "Run",
+    "Application.StringReverseWords.executor": "Run",
     "Application.String_Reverse.executor": "Run",
+    "Application.SumList.executor": "Run",
+    "Application.SwapPair.executor": "Debug",
+    "Application.SwapPairAgain.executor": "Run",
+    "Application.SyncronizedArrayList.executor": "Run",
     "Application.TestClass.executor": "Run",
+    "Application.TreeMapConcept.executor": "Run",
+    "Application.VectorDemo.executor": "Run",
     "Application.swapping.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -336,20 +381,20 @@
       <recent name="Neutrino.Base.model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Java8_Code.IntStream_Practice" />
-      <recent name="GFG_Practice.Maths_Algo" />
-      <recent name="GFG.util" />
-      <recent name="GFG.Recursion.problemsForPractice" />
-      <recent name="GFG.Recursion.problemsInSession" />
+      <recent name="Naveen_Automation_Labs.Collection.Set" />
+      <recent name="DSA_Challenges.Start.StringsAgain" />
+      <recent name="Naveen_Automation_Labs.Collection.List" />
+      <recent name="DSA_Challenges.Start.arrays" />
+      <recent name="Naveen_Automation_Labs.Collection.Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LearnStrings">
-    <configuration name="Array_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.basic.Array_Sum" />
+  <component name="RunManager" selected="Application.Code">
+    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.List.ArrayListMethods" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.basic.*" />
+          <option name="PATTERN" value="Naveen_Automation_Labs.Collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +402,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggestThreeOfAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.basic.BiggestThreeOfAllNumbers" />
+    <configuration name="Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays.Code" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.basic.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,12 +415,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Neutrino.String.LearnStrings" />
+    <configuration name="CompareHashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.Map.CompareHashMaps" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Neutrino.String.*" />
+          <option name="PATTERN" value="Naveen_Automation_Labs.Collection.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +428,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Neutrino.String.StringConcat" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.Questions.HashMapDemo" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Neutrino.String.*" />
+          <option name="PATTERN" value="Naveen_Automation_Labs.Collection.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,12 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Neutrino.Base.model.TestClass" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.Questions.ListDemo" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Neutrino.Base.model.*" />
+          <option name="PATTERN" value="Naveen_Automation_Labs.Collection.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,19 +455,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringConcat" />
-      <item itemvalue="Application.Array_Sum" />
-      <item itemvalue="Application.BiggestThreeOfAllNumbers" />
-      <item itemvalue="Application.LearnStrings" />
-      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.Code" />
+      <item itemvalue="Application.ArrayListMethods" />
+      <item itemvalue="Application.CompareHashMaps" />
+      <item itemvalue="Application.HashMapDemo" />
+      <item itemvalue="Application.ListDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LearnStrings" />
-        <item itemvalue="Application.StringConcat" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Array_Sum" />
-        <item itemvalue="Application.BiggestThreeOfAllNumbers" />
+        <item itemvalue="Application.Code" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.CompareHashMaps" />
+        <item itemvalue="Application.ArrayListMethods" />
+        <item itemvalue="Application.ListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -737,6 +782,151 @@
           <line>47</line>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/SwapPair.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/AnagramString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfACharInString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfAEachCharInString.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseEachCharacterInString.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseEachCharacterInString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckAnagramStrings.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckAnagramStrings.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckAnagramStrings.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SearchAnElementInAnArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveDuplicates.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveDuplicates.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/CheckEqualArrays.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/CheckEqualArrays.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverse.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/basic/PrimeNumber.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/LinkedListMethods.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/FindOccurrenceOfChar.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindDuplicates.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/OccurenceOfNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SwapPair.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SwapPair.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindCommonElements.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/HashSetDemo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/AnagramCheck.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/AnagramCheck.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/patterns/RightTriangleStar.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/Code.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GFG/Math_problems/problemsInSession/PowerOfN.java</url>
           <line>34</line>
@@ -755,6 +945,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA$ArrayListCompare.ic" NAME="ArrayListCompare Coverage Results" MODIFIED="1739751873572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Naveen_Automation_Labs.Collection.List.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GFG/Recursion/problemsInSession/Fibbo_Rec.java">

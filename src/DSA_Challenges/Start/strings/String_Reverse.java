@@ -1,13 +1,12 @@
 package DSA_Challenges.Start.strings;
 
-import GFG.util.GetString;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class String_Reverse {
     public static void main(String[] args) {
-        String str = GetString.getString();
+        String str = "Java";
         reverse(str);
         System.out.println(reverseBuilder(str));
         System.out.println(reverseViaStream(str));
