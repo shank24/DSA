@@ -5,93 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/ArrayEqualsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindCommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/FindDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/ArraysAgain/OccurenceOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/FindCommonElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/FindMaxAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/RemoveDuplicatesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/RemoveElemInOccur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/SearchAnElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/Arrays_Practice/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/AnagramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/GetAChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/InsertString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/PairAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/PrintFirstLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/RemoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/String_Practice/SwapPairAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/CheckAnagramStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/FindOccurrenceOfChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/GetSpecificCharatIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/ReplaceSpecificCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverseEachChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/StringReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringsAgain/SwapPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/CheckEqualArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/FindHighestInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RemoveElementInOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SearchAnElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortAnArrayInAsc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortAnArrayInDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/SortZerosAndOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/basic/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/collection/FindMinOrMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/collection/SumList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/patterns/RightTriangleStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/AnagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckAnagramStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/CheckVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/EvenLengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfACharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/FindOccurenceOfAEachCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/GetIndexFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/InsertString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/OddLengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/RemoveLeadingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReplaceCharAtSpecificindex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseEachCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/SortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/SwapPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/LinkedListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/SyncronizedArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/List/VectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/CompareHashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashCodeConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapSync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashMapToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/HashTableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Map/TreeMapConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/RemoveDuplicateInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Questions/RemoveDuplicateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/EnumSetConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/HashSetConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Naveen_Automation_Labs/Collection/Set/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/PatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/PatternPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/RegexPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/Regex/RegexPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neutrino/String/SplitCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/CheckArraysEqual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/strings/String_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/strings/String_Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/Neutrino/String/LearnStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/Neutrino/String/LearnStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays/RunningSumOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/String_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/strings/String_Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Neutrino/String/LearnStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Neutrino/String/LearnStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,6 +192,7 @@
     "Application.Array_Sum.executor": "Run",
     "Application.BiggestThreeOfAllNumbers.executor": "Run",
     "Application.CheckAnagramStrings.executor": "Run",
+    "Application.CheckArraysEqual.executor": "Run",
     "Application.CheckEqualArrays.executor": "Run",
     "Application.CheckEvenOrOdd.executor": "Run",
     "Application.CheckVowel.executor": "Run",
@@ -388,13 +304,26 @@
       <recent name="Naveen_Automation_Labs.Collection.Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code">
+  <component name="RunManager" selected="Application.CheckArraysEqual">
     <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.List.ArrayListMethods" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Naveen_Automation_Labs.Collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckArraysEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.CheckArraysEqual" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_Challenges.Start.arrays_revisit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,33 +370,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Naveen_Automation_Labs.Collection.Questions.ListDemo" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Naveen_Automation_Labs.Collection.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.CheckArraysEqual" />
       <item itemvalue="Application.Code" />
       <item itemvalue="Application.ArrayListMethods" />
       <item itemvalue="Application.CompareHashMaps" />
       <item itemvalue="Application.HashMapDemo" />
-      <item itemvalue="Application.ListDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckArraysEqual" />
         <item itemvalue="Application.Code" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.CompareHashMaps" />
         <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.ListDemo" />
       </list>
     </recent_temporary>
   </component>
