@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/FindDuplicatesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/RemovingSpecificElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/RetunrSumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/SearchAnElemInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/Sortarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/OccurrenceOfANumber1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/arrays/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/arrays_revisit/FindHighest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Code/DSA_Challenges/Start/arrays_revisit/FindHighest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/FindCommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/FindCommonElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/RetunrSumOfArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +205,7 @@
     "Application.EvenLengthString.executor": "Run",
     "Application.FibboNacci.executor": "Run",
     "Application.FindCommonElem.executor": "Run",
+    "Application.FindCommonElement.executor": "Run",
     "Application.FindCommonElements.executor": "Run",
     "Application.FindDuplicates.executor": "Run",
     "Application.FindDuplicatesInArray.executor": "Run",
@@ -244,6 +241,7 @@
     "Application.ListDemo.executor": "Run",
     "Application.Naveen_Automation_Labs.Collection.List.ArrayListDemo.executor": "Run",
     "Application.OccurenceOfNumber.executor": "Run",
+    "Application.OccurrenceOfANumber1.executor": "Run",
     "Application.OddLengthString.executor": "Run",
     "Application.PairAnagram.executor": "Run",
     "Application.Palindrome.executor": "Run",
@@ -316,9 +314,9 @@
       <recent name="Naveen_Automation_Labs.Collection.Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sortarray">
-    <configuration name="FindDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.FindDuplicatesInArray" />
+  <component name="RunManager" selected="Application.OccurrenceOfANumber1">
+    <configuration name="FindCommonElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.FindCommonElement" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -330,8 +328,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingSpecificElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.RemovingSpecificElement" />
+    <configuration name="OccurrenceOfANumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.OccurrenceOfANumber1" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
@@ -383,19 +381,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindDuplicatesInArray" />
-      <item itemvalue="Application.RemovingSpecificElement" />
+      <item itemvalue="Application.FindCommonElement" />
+      <item itemvalue="Application.OccurrenceOfANumber1" />
       <item itemvalue="Application.RetunrSumOfArray" />
       <item itemvalue="Application.SearchAnElemInArray" />
       <item itemvalue="Application.Sortarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OccurrenceOfANumber1" />
+        <item itemvalue="Application.FindCommonElement" />
         <item itemvalue="Application.Sortarray" />
         <item itemvalue="Application.SearchAnElemInArray" />
         <item itemvalue="Application.RetunrSumOfArray" />
-        <item itemvalue="Application.RemovingSpecificElement" />
-        <item itemvalue="Application.FindDuplicatesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -847,12 +845,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/Sortarray.java</url>
-          <line>27</line>
+          <line>26</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/Sortarray.java</url>
-          <line>28</line>
+          <line>27</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
