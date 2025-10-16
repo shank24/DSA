@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4365b599-6869-4119-b012-e2a85e5a14b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/OccurrenceOfANumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringRevisit/AnagramStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringRevisit/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/StringRevisit/SortString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/FindCommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/FindCommonElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_Challenges/Start/arrays_revisit/RetunrSumOfArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +187,7 @@
     "Application.AddBinaryNumber.executor": "Run",
     "Application.AnagramCheck.executor": "Run",
     "Application.AnagramString.executor": "Run",
+    "Application.AnagramStrings.executor": "Run",
     "Application.ArrayEqualsCheck.executor": "Run",
     "Application.ArrayListCompare.executor": "Run",
     "Application.ArrayListDemo.executor": "Run",
@@ -200,6 +201,7 @@
     "Application.CheckVowel.executor": "Run",
     "Application.Code.executor": "Run",
     "Application.CompareHashMaps.executor": "Run",
+    "Application.DSA_Challenges.Start.strings.SortString.executor": "Run",
     "Application.EnumSetConcepts (1).executor": "Run",
     "Application.EnumSetConcepts.executor": "Run",
     "Application.EvenLengthString.executor": "Run",
@@ -268,6 +270,7 @@
     "Application.RetunrSumOfArray.executor": "Run",
     "Application.ReverseEachCharacterInString.executor": "Run",
     "Application.ReverseEachWordsInString.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.ReverseWordInString.executor": "Run",
     "Application.ReverseWordsInString.executor": "Run",
     "Application.RightTriangleStar.executor": "Run",
@@ -299,7 +302,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/shankykalra/IdeaProjects/DSA"
+    "last_opened_file_path": "/Users/shankykalra/IdeaProjects/DSA",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -314,13 +318,26 @@
       <recent name="Naveen_Automation_Labs.Collection.Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OccurrenceOfANumber1">
-    <configuration name="FindCommonElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.FindCommonElement" />
+  <component name="RunManager" selected="Application.AnagramStrings">
+    <configuration name="AnagramStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.StringRevisit.AnagramStrings" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.arrays_revisit.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.StringRevisit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DSA_Challenges.Start.strings.SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.strings.SortString" />
+      <module name="DSA_Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_Challenges.Start.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetunrSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.RetunrSumOfArray" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.StringRevisit.ReverseString" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.arrays_revisit.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.StringRevisit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,25 +371,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchAnElemInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.SearchAnElemInArray" />
+    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.StringRevisit.SortString" />
       <module name="DSA_Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.arrays_revisit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sortarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA_Challenges.Start.arrays_revisit.Sortarray" />
-      <module name="DSA_Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA_Challenges.Start.arrays_revisit.*" />
+          <option name="PATTERN" value="DSA_Challenges.Start.StringRevisit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindCommonElement" />
+      <item itemvalue="Application.AnagramStrings" />
+      <item itemvalue="Application.DSA_Challenges.Start.strings.SortString" />
+      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.SortString" />
       <item itemvalue="Application.OccurrenceOfANumber1" />
-      <item itemvalue="Application.RetunrSumOfArray" />
-      <item itemvalue="Application.SearchAnElemInArray" />
-      <item itemvalue="Application.Sortarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnagramStrings" />
+        <item itemvalue="Application.SortString" />
+        <item itemvalue="Application.DSA_Challenges.Start.strings.SortString" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.OccurrenceOfANumber1" />
-        <item itemvalue="Application.FindCommonElement" />
-        <item itemvalue="Application.Sortarray" />
-        <item itemvalue="Application.SearchAnElemInArray" />
-        <item itemvalue="Application.RetunrSumOfArray" />
       </list>
     </recent_temporary>
   </component>
